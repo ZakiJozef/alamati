@@ -72,7 +72,7 @@ app.use((err, req, res, next) => {
 });
 
 // Start server
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3009;
 server.listen(PORT, () => {
     console.log(`
 🚀 3alamati API Server running on port ${PORT}
