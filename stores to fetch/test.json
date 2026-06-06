@@ -1,0 +1,149 @@
+{
+  "companies": [
+    {
+      "company": {
+        "name": "Red Apple Catering Service,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/red-apple-catering-service-sarl/dz023130/",
+        "logo": "https://prokcssmedia.blob.core.windows.net/sys-master-root/h98/h8e/8816072884254/DZ023130.jpg",
+        "phone": "+213 661 56 71 19",
+        "email": "redappledz@yahoo.fr",
+        "address": {
+          "streetAddress": "Cité Benghazi lot n°87B",
+          "addressLocality": "Baraki",
+          "postalCode": "16027",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Alger"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "36.6939582824707",
+          "longitude": "3.0772500038147"
+        },
+        "activities": [
+          "Restauration hors foyer et traiteurs",
+          "Conseil en tourisme et loisirs"
+        ],
+        "social_media": [],
+        "wilaya": "Alger",
+        "keywords": []
+      },
+      "products": [
+        {
+          "name": "SALADE VIP",
+          "description": "SALADE RED APPLE",
+          "image": "https://prokcssmedia.blob.core.windows.net/sys-master-images/h87/h43/9029918785566/dsc00840-jpg",
+          "category": "Hôtellerie, tourisme et restauration>Restauration hors foyer et traiteurs",
+          "price": null
+        },
+        {
+          "name": "CREVETTES GRILLE  ",
+          "description": "CREVETTES",
+          "image": "https://prokcssmedia.blob.core.windows.net/sys-master-images/hb6/h3c/9029918982174/dsc00817-jpg",
+          "category": "Hôtellerie, tourisme et restauration>Restauration hors foyer et traiteurs",
+          "price": null
+        },
+        {
+          "name": "assiette de fromage",
+          "description": "assiette de fromage",
+          "image": "https://prokcssmedia.blob.core.windows.net/sys-master-images/h73/hc8/9029912494110/dsc00805-jpg",
+          "category": "Hôtellerie, tourisme et restauration>Restauration hors foyer et traiteurs",
+          "price": null
+        },
+        {
+          "name": "Cuisine RED APPLE",
+          "description": "Cuisine RED APPLE",
+          "image": "https://prokcssmedia.blob.core.windows.net/sys-master-images/h57/h4a/9029918588958/dsc00844-jpg",
+          "category": "Hôtellerie, tourisme et restauration>Restauration hors foyer et traiteurs",
+          "price": null
+        },
+        {
+          "name": "COLLATION ",
+          "description": "COLLATION",
+          "image": "https://prokcssmedia.blob.core.windows.net/sys-master-images/hb1/h11/9029919178782/s8000197-jpg",
+          "category": "Hôtellerie, tourisme et restauration>Restauration hors foyer et traiteurs",
+          "price": null
+        },
+        {
+          "name": "entree froide",
+          "description": "entrée froide",
+          "image": "https://prokcssmedia.blob.core.windows.net/sys-master-images/hdd/h5e/9029913477150/dsc00835-jpg",
+          "category": "Hôtellerie, tourisme et restauration>Restauration hors foyer et traiteurs",
+          "price": null
+        }
+      ],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "BETONIUM,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/betonium-sarl/dz258301/",
+        "logo": "https://prokcssmedia.blob.core.windows.net/sys-master-images/h39/hf9/8832805961758/258301.jpg",
+        "phone": "+213 560 94 37 70",
+        "email": "sarlbetonium@gmail.com",
+        "address": {
+          "streetAddress": "Cité Mouadsa n°151 local n°1",
+          "addressLocality": "Rouiba",
+          "postalCode": "16013",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Alger"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "36.7426795959473",
+          "longitude": "3.27890992164612"
+        },
+        "activities": [
+          "Produits en béton",
+          "Travaux en béton",
+          "Location de matériel industriel",
+          "Location de matériel pour le génie civil, le bâtiment et les travaux publics"
+        ],
+        "social_media": [],
+        "wilaya": "Alger",
+        "keywords": []
+      },
+      "products": [],
+      "services": [
+        {
+          "name": "Location de pompe à béton",
+          "description": "Location de pompe à béton",
+          "image": "https://prokcssmedia.blob.core.windows.net/sys-master-images/h75/h52/8834269642782/Ph5.jpg",
+          "category": "Location>Location de matériel pour le génie civil, le bâtiment et les travaux publics",
+          "price": null
+        },
+        {
+          "name": "Silo",
+          "description": "Silo",
+          "image": "https://prokcssmedia.blob.core.windows.net/sys-master-images/h64/h10/8834268856350/Ph2.jpg",
+          "category": "Bâtiment>Travaux en béton",
+          "price": null
+        },
+        {
+          "name": "Vente de béton prêt à l'emploi",
+          "description": "Vente de béton prêt à l'emploi",
+          "image": "https://prokcssmedia.blob.core.windows.net/sys-master-images/hd4/h44/8834269249566/Ph3.jpg",
+          "category": "Bâtiment>Travaux en béton",
+          "price": null
+        },
+        {
+          "name": "Silo",
+          "description": "Silo",
+          "image": "https://prokcssmedia.blob.core.windows.net/sys-master-images/h34/h17/8834268659742/Ph1.jpg",
+          "category": "Verre, céramique et ciment>Produits en béton",
+          "price": null
+        },
+        {
+          "name": "Location de pompe à béton",
+          "description": "Location de pompe à béton",
+          "image": "https://prokcssmedia.blob.core.windows.net/sys-master-images/ha5/h4b/8834269446174/Ph4.jpg",
+          "category": "Location>Location de matériel industriel",
+          "price": null
+        }
+      ]
+    }
+  ]
+}

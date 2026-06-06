@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>vCard Homepage</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#137fec",
+                        "background-light": "#f6f7f8",
+                        "background-dark": "#101922",
+                    },
+                    fontFamily: {
+                        "display": ["Manrope", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "2xl": "1rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+<style>
+        .hide-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .hide-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="bg-background-light dark:bg-background-dark font-display text-slate-900 dark:text-slate-100 antialiased overflow-x-hidden">
+<div class="relative flex h-full min-h-screen w-full max-w-md mx-auto flex-col shadow-2xl bg-white dark:bg-slate-900 overflow-hidden">
+<header class="flex items-center justify-between px-6 pt-6 pb-2 bg-white dark:bg-slate-900 z-10 sticky top-0">
+<div>
+<p class="text-sm font-medium text-slate-500 dark:text-slate-400">Welcome back,</p>
+<h2 class="text-2xl font-bold leading-tight tracking-tight text-slate-900 dark:text-white">Connections</h2>
+</div>
+<button class="flex items-center justify-center w-10 h-10 rounded-full bg-slate-100 dark:bg-slate-800 overflow-hidden ring-2 ring-transparent hover:ring-primary/20 transition-all">
+<div class="w-full h-full bg-cover bg-center" data-alt="User profile avatar" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDcyVbYsR8uJ7nZMIfZDDJx-o_eeYSYHjbN8h0j--ILrpS3nkQr0e6ibpWWAC6ngp1ZTfO0e-s3-r6T9ShjiVJaYlkWmmnTvoHZ7cd1HaG_MBJS_3BZldEeA4D_lDa-sAiC2zfBJYLkhaRAYzvB-e5ZAdsDJoRGCwpB9x67zt2V51nqoZ_rN9H77quJk7_uy7qLUXiZNth2EY3W4_8gdkA5QONUtRKzh28fp_OnuBeImazmy3Ftaft3ffV8h7bzXWX9u3gm9UXHVBhc');"></div>
+</button>
+</header>
+<div class="px-6 py-2 bg-white dark:bg-slate-900 sticky top-[72px] z-10 pb-4">
+<div class="relative w-full">
+<div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
+<span class="material-symbols-outlined text-slate-400">search</span>
+</div>
+<input class="block w-full p-3.5 pl-10 text-sm text-slate-900 border border-slate-200 rounded-2xl bg-slate-50 focus:ring-primary focus:border-primary dark:bg-slate-800 dark:border-slate-700 dark:placeholder-slate-400 dark:text-white dark:focus:ring-primary dark:focus:border-primary shadow-sm" placeholder="Search connections..." type="text"/>
+<div class="absolute inset-y-0 right-0 flex items-center pr-3">
+<button class="p-1 rounded-full bg-primary text-white hover:bg-blue-600 transition-colors">
+<span class="material-symbols-outlined text-[20px] leading-none">tune</span>
+</button>
+</div>
+</div>
+</div>
+<div class="flex gap-3 px-6 pb-6 overflow-x-auto hide-scrollbar bg-white dark:bg-slate-900 border-b border-slate-100 dark:border-slate-800/50">
+<button class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-slate-100 dark:bg-slate-800 px-4 transition active:scale-95 hover:bg-slate-200 dark:hover:bg-slate-700">
+<span class="material-symbols-outlined text-primary text-[20px]">work</span>
+<span class="text-slate-900 dark:text-white text-sm font-medium leading-normal">Industry</span>
+<span class="material-symbols-outlined text-slate-400 text-[18px]">expand_more</span>
+</button>
+<button class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-slate-100 dark:bg-slate-800 px-4 transition active:scale-95 hover:bg-slate-200 dark:hover:bg-slate-700">
+<span class="material-symbols-outlined text-primary text-[20px]">event</span>
+<span class="text-slate-900 dark:text-white text-sm font-medium leading-normal">Event</span>
+<span class="material-symbols-outlined text-slate-400 text-[18px]">expand_more</span>
+</button>
+<button class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-slate-100 dark:bg-slate-800 px-4 transition active:scale-95 hover:bg-slate-200 dark:hover:bg-slate-700">
+<span class="material-symbols-outlined text-primary text-[20px]">filter_alt</span>
+<span class="text-slate-900 dark:text-white text-sm font-medium leading-normal">More Filters</span>
+<span class="material-symbols-outlined text-slate-400 text-[18px]">expand_more</span>
+</button>
+</div>
+<main class="flex-1 overflow-y-auto px-6 py-6 space-y-4 bg-background-light dark:bg-background-dark">
+<div class="flex items-center justify-between mb-2">
+<h3 class="text-lg font-bold text-slate-900 dark:text-white">Suggested Connections</h3>
+<a class="text-primary text-sm font-medium hover:underline" href="#">View all</a>
+</div>
+<div class="flex items-center gap-4 bg-white dark:bg-slate-800 rounded-2xl p-3 shadow-sm hover:shadow-md transition-shadow border border-slate-100 dark:border-slate-700/50">
+<div class="shrink-0 w-14 h-14 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden">
+<img alt="Profile image of John Doe" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCWQY0Vp3I2tI3-0WXjo0KyyIWvhvnEkNzWtychdC5fDwWrVfhhFBmCknfZAPR8ae1JGnXXAOYrZgY1kxXSp8eKbi3Bzt7NJiKS_LeXv9lj8M8LhvEidxN-XHgccIjM0LGw1GqOaXqbyoWroaohCYzVEtQYlK9z_OcZYfsJqRlqknasBCc_NplOY4TjaF6-llJzeBaYdYpqYyezPRr4n65G7OjFGmuEAX-iihEM7M4jqoIp3LS-Pk_OWoE4a6ni8TgQAztibMaJTtE5"/>
+</div>
+<div class="flex-1 min-w-0">
+<p class="text-base font-semibold text-slate-900 dark:text-white truncate">John Doe</p>
+<p class="text-sm text-slate-500 dark:text-slate-400 truncate">Software Engineer @ TechCorp</p>
+</div>
+<div class="flex gap-2 shrink-0">
+<button aria-label="Add to Contacts" class="h-9 w-9 flex items-center justify-center rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors">
+<span class="material-symbols-outlined text-[20px]">person_add</span>
+</button>
+<button aria-label="Message" class="h-9 w-9 flex items-center justify-center rounded-full bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 transition-colors">
+<span class="material-symbols-outlined text-[20px]">chat</span>
+</button>
+</div>
+</div>
+<div class="flex items-center gap-4 bg-white dark:bg-slate-800 rounded-2xl p-3 shadow-sm hover:shadow-md transition-shadow border border-slate-100 dark:border-slate-700/50">
+<div class="shrink-0 w-14 h-14 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden">
+<img alt="Profile image of Jane Smith" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDlQB8FR5KKIVLCAgm4_68abcSFmahtHI1hyl_CBeXo4mITSPDL3s-mVkFthMZ3mL3bkq2QvFZHfK8U2LnxLziBo_TOXJCu6VHQbIFBkIhGxTNM9YTdn__LrTLeLSYFo0_5oCgbHUXPV_b5WXvqP_SWUopaujbd3k7g80aID8WsFvPMr27Ic2AWjBlgzcXw3OiFx6SclgZH1pEnYjlGltEf-R0TpZR8g5lN11tFP48sWXLIZPIFLF0-c2E_PV_8HJshcT0Fxjia4c7N"/>
+</div>
+<div class="flex-1 min-w-0">
+<p class="text-base font-semibold text-slate-900 dark:text-white truncate">Jane Smith</p>
+<p class="text-sm text-slate-500 dark:text-slate-400 truncate">Marketing Manager @ Global Brands</p>
+</div>
+<div class="flex gap-2 shrink-0">
+<button aria-label="Add to Contacts" class="h-9 w-9 flex items-center justify-center rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors">
+<span class="material-symbols-outlined text-[20px]">person_add</span>
+</button>
+<button aria-label="Message" class="h-9 w-9 flex items-center justify-center rounded-full bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 transition-colors">
+<span class="material-symbols-outlined text-[20px]">chat</span>
+</button>
+</div>
+</div>
+<div class="flex items-center gap-4 bg-white dark:bg-slate-800 rounded-2xl p-3 shadow-sm hover:shadow-md transition-shadow border border-slate-100 dark:border-slate-700/50">
+<div class="shrink-0 w-14 h-14 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden">
+<img alt="Company logo for Innovate Solutions" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDnA3jlqTdgpPMm5M85GC18rBALWqN5GjoqQCxl3VGxFCZMLZnxP9Dqdg2SsWJf3ZpwztndwsqEvEc51mxA0fveRguaOOXa0QZjYE7D_mNX0b3yJLV0Mh-lBpTZYPz_RRXYEEE-Bclv39-2bFhgXEPtAxUg0LdM2pEsYc0wJXyL9HL1OKwUl2cHD-taLoJDZZT_DqIg04_prlio8HQOgciiFBbVMHvP92Vz6tDkhpDh8D5ktF-uLsM4BkO-wI_MSuWFWbPjMLJlNMpY"/>
+</div>
+<div class="flex-1 min-w-0">
+<p class="text-base font-semibold text-slate-900 dark:text-white truncate">Innovate Solutions</p>
+<p class="text-sm text-slate-500 dark:text-slate-400 truncate">Tech Consulting Firm</p>
+</div>
+<div class="flex gap-2 shrink-0">
+<button aria-label="Add to Contacts" class="h-9 w-9 flex items-center justify-center rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors">
+<span class="material-symbols-outlined text-[20px]">person_add</span>
+</button>
+<button aria-label="Message" class="h-9 w-9 flex items-center justify-center rounded-full bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 transition-colors">
+<span class="material-symbols-outlined text-[20px]">chat</span>
+</button>
+</div>
+</div>
+<div class="flex items-center gap-4 bg-white dark:bg-slate-800 rounded-2xl p-3 shadow-sm hover:shadow-md transition-shadow border border-slate-100 dark:border-slate-700/50">
+<div class="shrink-0 w-14 h-14 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden">
+<img alt="Profile image of Emily White" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD-wkbpw0g7fYd70inxo-ZpoqFilBlZYIrOpM-QznI4Mxfh4_ko8qNollm6p5C-ZIT-TW8nBeIzPJYxeq0BQ3mzTOtvXmBQDJi7pDG43f7KCJt4pFWiGFBjOJoF6jknSZeBbX55sQQIzL5E2Ez3G2GHuZ5FuvLvGeTinBGGgjYn39vIH9qvUKN2-ZozLHwEd2YlL-2-oUcmAHCCRDLQ3PBfhjzfjOjpfxv_z9OJVBU70HsGueOY92ga64c95M01-WmRTPcAouH9aXmA"/>
+</div>
+<div class="flex-1 min-w-0">
+<p class="text-base font-semibold text-slate-900 dark:text-white truncate">Emily White</p>
+<p class="text-sm text-slate-500 dark:text-slate-400 truncate">Senior Recruiter @ TalentFinders</p>
+</div>
+<div class="flex gap-2 shrink-0">
+<button aria-label="Add to Contacts" class="h-9 w-9 flex items-center justify-center rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors">
+<span class="material-symbols-outlined text-[20px]">person_add</span>
+</button>
+<button aria-label="Message" class="h-9 w-9 flex items-center justify-center rounded-full bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 transition-colors">
+<span class="material-symbols-outlined text-[20px]">chat</span>
+</button>
+</div>
+</div>
+<div class="flex items-center gap-4 bg-white dark:bg-slate-800 rounded-2xl p-3 shadow-sm hover:shadow-md transition-shadow border border-slate-100 dark:border-slate-700/50">
+<div class="shrink-0 w-14 h-14 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden">
+<img alt="Profile image of David Green" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCHpAQBs6t7s3yqjDt1Dhr9OGE2_ymVjck0X-WC8T8wtjnW4DTC2fTFyHplajsfHRqeesc41xB0flpz9TV_rHyGEnEfnmv4R9G9xXIjJ3luvdNEEmvXppom5Jlbe5a7nWbds-YOEf9qqoWfGbCoXCjVLwv1Vzy1uNhhRx9JC_-Nx6mSQ78NZg93rrmIRyXx-s_HlzHV-9jSOWtl-BdcQABUr-TEL7SPQKVZLADuWoSd6TmajmawChy8LCsTtgPWE64x9iT4Ot-W8LQH"/>
+</div>
+<div class="flex-1 min-w-0">
+<p class="text-base font-semibold text-slate-900 dark:text-white truncate">David Green</p>
+<p class="text-sm text-slate-500 dark:text-slate-400 truncate">Venture Capitalist @ GrowthFund</p>
+</div>
+<div class="flex gap-2 shrink-0">
+<button aria-label="Add to Contacts" class="h-9 w-9 flex items-center justify-center rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors">
+<span class="material-symbols-outlined text-[20px]">person_add</span>
+</button>
+<button aria-label="Message" class="h-9 w-9 flex items-center justify-center rounded-full bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 transition-colors">
+<span class="material-symbols-outlined text-[20px]">chat</span>
+</button>
+</div>
+</div>
+<div class="h-16"></div>
+</main>
+<nav class="fixed bottom-0 z-50 w-full max-w-md bg-white dark:bg-slate-900 border-t border-slate-200 dark:border-slate-800 pb-safe">
+<div class="flex justify-around items-center h-16">
+<button class="flex flex-col items-center justify-center w-full h-full gap-1 text-primary">
+<span class="material-symbols-outlined text-[24px]">home</span>
+<span class="text-[10px] font-medium">Home</span>
+</button>
+<button class="flex flex-col items-center justify-center w-full h-full gap-1 text-slate-400 dark:text-slate-500 hover:text-slate-600 dark:hover:text-slate-300 transition-colors">
+<span class="material-symbols-outlined text-[24px]">contacts</span>
+<span class="text-[10px] font-medium">My vCards</span>
+</button>
+<div class="relative -top-5">
+<button class="flex items-center justify-center w-14 h-14 rounded-full bg-primary text-white shadow-lg shadow-primary/40 hover:scale-105 transition-transform">
+<span class="material-symbols-outlined text-[28px]">qr_code_scanner</span>
+</button>
+</div>
+<button class="flex flex-col items-center justify-center w-full h-full gap-1 text-slate-400 dark:text-slate-500 hover:text-slate-600 dark:hover:text-slate-300 transition-colors">
+<span class="material-symbols-outlined text-[24px]">bookmark</span>
+<span class="text-[10px] font-medium">Saved</span>
+</button>
+<button class="flex flex-col items-center justify-center w-full h-full gap-1 text-slate-400 dark:text-slate-500 hover:text-slate-600 dark:hover:text-slate-300 transition-colors">
+<span class="material-symbols-outlined text-[24px]">person</span>
+<span class="text-[10px] font-medium">Profile</span>
+</button>
+</div>
+</nav>
+</div>
+</body></html>

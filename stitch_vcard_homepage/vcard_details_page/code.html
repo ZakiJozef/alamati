@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>vCard Details Page</title>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#137fec",
+                        "background-light": "#f6f7f8",
+                        "background-dark": "#101922",
+                    },
+                    fontFamily: {
+                        "display": ["Manrope", "sans-serif"]
+                    },
+                    borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+                },
+            },
+        }
+    </script>
+<style>.no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }.no-scrollbar {
+            -ms-overflow-style: none;scrollbar-width: none;}
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="bg-background-light dark:bg-background-dark font-display antialiased text-slate-900 dark:text-slate-100 min-h-screen flex justify-center">
+<div class="relative w-full max-w-md bg-white dark:bg-[#1A2633] min-h-screen shadow-2xl overflow-hidden pb-10">
+<header class="relative group/design-root">
+<div class="relative h-56 w-full overflow-hidden">
+<div class="absolute inset-0 bg-cover bg-center" data-alt="Abstract blue geometric header background" style='background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0) 50%), url("https://lh3.googleusercontent.com/aida-public/AB6AXuBgAY65MebE3AGAYrZ0yPadDzpoJL5QhAj5S13reJA8o8-De4le8Jy0n0YSB32woK4bM9QlhjJhNWLbCFMVeeg_2vi-TGcYwz3ximmq1GvDfV47qS93_3qTKei15mjSyDorP9JZfpJnJQad5_-0s9eqT980_ZwBEE8I_71Tivwop8MRz0uxfFFjNOK_69giqnkbPL9F9mfEuBDyq3P4RtW7gRgp77-NS9wqCVQ790J7-TGLwcw6wWaUZfNHWnHxP2nM8bIOcjPhZj4F");'>
+</div>
+<div class="absolute top-0 left-0 w-full p-4 flex justify-between items-start pt-12 z-10">
+<button class="bg-white/20 backdrop-blur-md p-2 rounded-full text-white hover:bg-white/30 transition">
+<span class="material-symbols-outlined block text-[20px]">arrow_back</span>
+</button>
+<button class="bg-white/20 backdrop-blur-md p-2 rounded-full text-white hover:bg-white/30 transition">
+<span class="material-symbols-outlined block text-[20px]">more_vert</span>
+</button>
+</div>
+</div>
+<div class="relative px-5 flex flex-col items-center -mt-16">
+<div class="relative">
+<div class="bg-center bg-no-repeat bg-cover rounded-full h-32 w-32 border-[6px] border-white dark:border-[#1A2633] shadow-lg" data-alt="Portrait of John Doe professional headshot" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCyHJHVpe1SFecvchuvRWj136dGqMWE3LxWp6XtKzrhXuv4nZFsSVuoTDwmMrXRXEMKBz-sKlEBRGzIhajp_ZHNdS9a5E6sJCPDxkY8swDx1IcqKc3WbGqY03audz_4Nvf5eDOT1frgqSXJlaN3PPj-jjDZ54-8OrQaeJwVc8rtcrCGr7eNrd384twSo_gxvT4S025iv_nuRGnkmHeps5w5pd6FzjdOiqdyUKD1kN4zcqh6b0qK9e0iS0w9LYaAoyiM_l9qAxn2zCih");'>
+</div>
+<div class="absolute bottom-2 right-2 h-5 w-5 bg-green-500 rounded-full border-4 border-white dark:border-[#1A2633]"></div>
+</div>
+<div class="mt-3 text-center">
+<h1 class="text-2xl font-bold text-slate-900 dark:text-white leading-tight">John Doe</h1>
+<p class="text-primary font-medium text-sm mt-1">Senior Product Designer @ TechFlow</p>
+<div class="flex items-center justify-center gap-1 mt-1 text-slate-500 dark:text-slate-400 text-sm">
+<span class="material-symbols-outlined text-[16px]">location_on</span>
+<span>San Francisco, CA</span>
+</div>
+</div>
+<p class="mt-4 text-center text-slate-600 dark:text-slate-300 text-sm leading-relaxed max-w-xs mx-auto">
+                    Crafting intuitive digital experiences. Passionate about minimalism and user-centric design principles.
+                </p>
+</div>
+</header>
+<div class="sticky top-0 z-20 bg-white dark:bg-[#1A2633] shadow-sm pt-4">
+<nav class="flex justify-around border-b border-slate-200 dark:border-slate-700 px-4">
+<button class="flex-1 py-3 text-center text-sm font-semibold text-primary border-b-2 border-primary -mb-px">Overview</button>
+<button class="flex-1 py-3 text-center text-sm font-medium text-slate-500 hover:text-primary dark:text-slate-400 dark:hover:text-white border-b-2 border-transparent hover:border-primary/50 transition-colors">Portfolio</button>
+<button class="flex-1 py-3 text-center text-sm font-medium text-slate-500 hover:text-primary dark:text-slate-400 dark:hover:text-white border-b-2 border-transparent hover:border-primary/50 transition-colors">Connect</button>
+<button class="flex-1 py-3 text-center text-sm font-medium text-slate-500 hover:text-primary dark:text-slate-400 dark:hover:text-white border-b-2 border-transparent hover:border-primary/50 transition-colors">Details</button>
+</nav>
+</div>
+<section class="mt-8 px-4">
+<div class="grid grid-cols-4 gap-3">
+<button class="flex flex-col items-center gap-2 group">
+<div class="h-12 w-12 rounded-full bg-primary/10 group-hover:bg-primary/20 flex items-center justify-center transition-colors">
+<span class="material-symbols-outlined text-primary text-[24px]">call</span>
+</div>
+<span class="text-xs font-medium text-slate-700 dark:text-slate-300">Call</span>
+</button>
+<button class="flex flex-col items-center gap-2 group">
+<div class="h-12 w-12 rounded-full bg-primary/10 group-hover:bg-primary/20 flex items-center justify-center transition-colors">
+<span class="material-symbols-outlined text-primary text-[24px]">mail</span>
+</div>
+<span class="text-xs font-medium text-slate-700 dark:text-slate-300">Email</span>
+</button>
+<button class="flex flex-col items-center gap-2 group">
+<div class="h-12 w-12 rounded-full bg-primary/10 group-hover:bg-primary/20 flex items-center justify-center transition-colors">
+<span class="material-symbols-outlined text-primary text-[24px]">language</span>
+</div>
+<span class="text-xs font-medium text-slate-700 dark:text-slate-300">Website</span>
+</button>
+<button class="flex flex-col items-center gap-2 group">
+<div class="h-12 w-12 rounded-full bg-primary/10 group-hover:bg-primary/20 flex items-center justify-center transition-colors">
+<span class="material-symbols-outlined text-primary text-[24px]">share</span>
+</div>
+<span class="text-xs font-medium text-slate-700 dark:text-slate-300">Share</span>
+</button>
+</div>
+<div class="mt-8 pt-6 border-t border-slate-100 dark:border-slate-800">
+<h3 class="text-xs font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500 text-center mb-4">Connect Socially</h3>
+<div class="grid grid-cols-2 sm:grid-cols-3 gap-x-2 gap-y-3">
+<a class="flex items-center gap-3 p-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 transition group" href="#">
+<div class="flex-shrink-0 w-8 h-8 rounded-full bg-[#1877F2]/10 text-[#1877F2] group-hover:bg-[#1877F2] group-hover:text-white flex items-center justify-center transition-all duration-300">
+<svg class="w-4 h-4 fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"></path></svg>
+</div>
+<div>
+<p class="text-sm font-medium text-slate-700 dark:text-slate-200 group-hover:text-primary dark:group-hover:text-white">Facebook</p>
+<p class="text-xs text-slate-500 dark:text-slate-400">@JohnDoeOfficial</p>
+</div>
+</a>
+<a class="flex items-center gap-3 p-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 transition group" href="#">
+<div class="flex-shrink-0 w-8 h-8 rounded-full bg-[#E4405F]/10 text-[#E4405F] group-hover:bg-[#E4405F] group-hover:text-white flex items-center justify-center transition-all duration-300">
+<svg class="w-4 h-4 fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"></path></svg>
+</div>
+<div>
+<p class="text-sm font-medium text-slate-700 dark:text-slate-200 group-hover:text-primary dark:group-hover:text-white">Instagram</p>
+<p class="text-xs text-slate-500 dark:text-slate-400">@JohnDoeDesign</p>
+</div>
+</a>
+<a class="flex items-center gap-3 p-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 transition group" href="#">
+<div class="flex-shrink-0 w-8 h-8 rounded-full bg-slate-900/10 dark:bg-white/10 text-slate-900 dark:text-white group-hover:bg-black group-hover:text-white dark:group-hover:bg-white dark:group-hover:text-black flex items-center justify-center transition-all duration-300">
+<svg class="w-4 h-4 fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93v6.14c0 3.48-2.32 5.79-5.7 5.79-3.32 0-5.6-2.33-5.6-5.74 0-3.41 2.29-5.72 5.6-5.72 1.2 0 2.33.35 3.3.97v4.06c-.84-.52-1.84-.73-2.83-.49-1.39.36-2.19 1.83-1.75 3.26.4 1.34 1.76 2.07 3.07 1.79 1.43-.32 2.18-1.76 1.86-3.15-.03-.13-.07-.26-.13-.38V4.54c1.86.07 3.36-.6 4.74-1.78.93-.8 1.63-1.84 2.16-2.95H12.52v.21z"></path></svg>
+</div>
+<div>
+<p class="text-sm font-medium text-slate-700 dark:text-slate-200 group-hover:text-primary dark:group-hover:text-white">TikTok</p>
+<p class="text-xs text-slate-500 dark:text-slate-400">@john_doe_creative</p>
+</div>
+</a>
+<a class="flex items-center gap-3 p-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 transition group" href="#">
+<div class="flex-shrink-0 w-8 h-8 rounded-full bg-[#25D366]/10 text-[#25D366] group-hover:bg-[#25D366] group-hover:text-white flex items-center justify-center transition-all duration-300">
+<svg class="w-4 h-4 fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"></path></svg>
+</div>
+<div>
+<p class="text-sm font-medium text-slate-700 dark:text-slate-200 group-hover:text-primary dark:group-hover:text-white">WhatsApp</p>
+<p class="text-xs text-slate-500 dark:text-slate-400">+1 (555) 123-4567</p>
+</div>
+</a>
+<a class="flex items-center gap-3 p-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 transition group" href="#">
+<div class="flex-shrink-0 w-8 h-8 rounded-full bg-[#7360F2]/10 text-[#7360F2] group-hover:bg-[#7360F2] group-hover:text-white flex items-center justify-center transition-all duration-300">
+<svg class="w-4 h-4 fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M21.246 16.929c-.77-.872-2.185-.92-3.057-.105l-.463.433c-.347.324-1.272-.158-2.673-1.559-1.4-1.401-1.883-2.326-1.559-2.673l.433-.463c.815-.872.767-2.287-.105-3.057l-2.071-1.827c-.872-.769-2.261-.692-3.04.186l-1.464 1.65c-1.077 1.214-1.127 3.391 1.761 6.279 2.888 2.888 5.065 2.838 6.279 1.761l1.65-1.464c.878-.779.955-2.168.186-3.04l-1.827-2.071-.05.05zm-3.076-7.85c.192 0 .385.074.521.221l2.071 1.827c.288.254.263.722-.055 1.079l-1.65 1.464c-.452.401-1.571.216-3.328-1.541-1.757-1.757-1.942-2.876-1.541-3.328l1.464-1.65c.357-.318.825-.343 1.079-.055l1.827 2.071c.147.136.221.329.221.521v-.05c0-3.565-2.905-6.47-6.47-6.47v2.15c2.375 0 4.32 1.945 4.32 4.32h2.15zM17.65 7.02c-.012-.032-.027-.063-.042-.094-.654-2.873-3.08-5.115-6.048-5.592-.102-.016-.205-.027-.309-.033V0c4.136.068 7.487 3.42 7.555 7.555h-1.28l-.041-.093zM15.42 8.76l-.066-.178c-.287-1.401-1.424-2.538-2.825-2.825l-.178-.066v-1.15c2.14.242 3.819 1.921 4.061 4.061h-1.15l.158.158z"></path></svg>
+</div>
+<div>
+<p class="text-sm font-medium text-slate-700 dark:text-slate-200 group-hover:text-primary dark:group-hover:text-white">Viber</p>
+<p class="text-xs text-slate-500 dark:text-slate-400">+1 (555) 123-4567</p>
+</div>
+</a>
+</div>
+</div>
+</section>
+<section class="mt-8">
+<div class="px-5 mb-3 flex items-center justify-between">
+<h2 class="text-lg font-bold text-slate-900 dark:text-white">Portfolio</h2>
+<a class="text-sm text-primary font-medium hover:underline" href="#">View All</a>
+</div>
+<div class="grid grid-cols-2 gap-x-4 gap-y-6 px-5 pb-4">
+<div class="flex flex-col gap-2">
+<div class="w-full h-36 rounded-lg bg-cover bg-center shadow-sm relative overflow-hidden group" data-alt="Modern minimalist office interior design thumbnail" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuD18EqhlPpB9xL7bMubYghIIKGoDiOqTgW_9vAXFbfp8bITH-SVvGq3OgWp1aKrjeesZV_JNpuxWJBxZbE8RoEfxf6dLBi7tUYkNk__1DYKS4NsJBRRF6m_-FObPlMYjcOMYoATdz46DcWIb4LI9SSqnB3EJFq4zrlSs_AdRlDZNZCyLNawkHoR9nnVjTAYcnPvD9f58gIAeSY89aANWIxFshFYJrMZ3zM3U8kskBtMVBu6TN7pJMbmD3bi5FZylacZ29d76Yd_U5RC");'>
+<div class="absolute inset-0 bg-black/20 group-hover:bg-black/10 transition"></div>
+</div>
+<div>
+<p class="text-slate-900 dark:text-white text-base font-bold leading-tight">Modern Workspace</p>
+<p class="text-slate-500 dark:text-slate-400 text-sm mt-1">Interior Design: A minimalist approach for optimal productivity and aesthetic appeal.</p>
+</div>
+</div>
+<div class="flex flex-col gap-2">
+<div class="w-full h-36 rounded-lg bg-cover bg-center shadow-sm relative overflow-hidden group" data-alt="Mobile banking application interface design thumbnail" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuA9OvVO82aiYrKUl4B_5qCikubfdLUd-CKfiAA3LANUC5TV3ANFlUpliYifvHRxVxKx-ExTxAniyYQF_g97PxIPIORbPJ3HV12YGDyeRze9iKLwyf4pdRYS6zYwOk-vLyXFCD0-znNr9kjLjjfzyKa6bYAxKzyRiU-pNx9UHkGn1UNZ5wrEM3IT4edzr6sBsxgeeO-mY3K71ljemxIK4BoYCmwP_m6CODNAZpbfvohybISWi4dVK0g5b5fRfCXva-7sr3OsAwVuEYaT");'>
+<div class="absolute inset-0 bg-black/20 group-hover:bg-black/10 transition"></div>
+</div>
+<div>
+<p class="text-slate-900 dark:text-white text-base font-bold leading-tight">Fintech Mobile App</p>
+<p class="text-slate-500 dark:text-slate-400 text-sm mt-1">UI/UX Project: Redefining digital banking with intuitive design and seamless user flows.</p>
+</div>
+</div>
+<div class="flex flex-col gap-2">
+<div class="w-full h-36 rounded-lg bg-cover bg-center shadow-sm relative overflow-hidden group" data-alt="Abstract colorful branding identity design thumbnail" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuAtP183iMgYRfxFaTBHtVGm2TOyzKTCVG1ed8AtjRfMLjpEuYmoxtIa2hoqu2vF6_5Sw-XqADoQDv4NI38cb5K5oF82HdPi0H1ECtc-3_sA_UogICZQFL3CixpO1q6If0dsxo0nl7xH_eCgHCsF2ht88-rR51RnpxTteTcj3KN95DyQaVz8Aecq1F3SdQBkTu3O-ptVMXY8b8F7jyUI0IJ7f3VcTFgn6_fcJLQWU8VUzRhGSwn3X9Zr-8K3T7NDJKOU117vc42HJlId");'>
+<div class="absolute inset-0 bg-black/20 group-hover:bg-black/10 transition"></div>
+</div>
+<div>
+<p class="text-slate-900 dark:text-white text-base font-bold leading-tight">Brand Identity</p>
+<p class="text-slate-500 dark:text-slate-400 text-sm mt-1">Graphic Design: Developing a cohesive visual language that resonates with the brand's core values.</p>
+</div>
+</div>
+<div class="flex flex-col gap-2">
+<div class="w-full h-36 rounded-lg bg-cover bg-center shadow-sm relative overflow-hidden group" data-alt="Website design for an e-commerce platform" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDDaliMQzhbvtAB8GoHf67fzZLUvXkyIwFOz_9GtEUMK4_t3czs0qDjTAgutGXDRiXPsJ9Mp4QuVgQtjiY9hhaxj35Qgdyqdh6lPAc9mlUiNUHHn2HdgDJtyySl_8HO5H5WYQ02Ih8AbBziFx17gIkb7zlUdEZcmapyYCYVU_cti1CMram6TmHelXBOwyW0r7_D9ejSIs7SB3QaCOqwGVr8zsAT--lLqJRLpUxLP_mr0vQ6I5k19UxL8zCPsJ83F6KWhSNkULjPhzQ6");'>
+<div class="absolute inset-0 bg-black/20 group-hover:bg-black/10 transition"></div>
+</div>
+<div>
+<p class="text-slate-900 dark:text-white text-base font-bold leading-tight">E-commerce Website</p>
+<p class="text-slate-500 dark:text-slate-400 text-sm mt-1">Web Design: Crafting an engaging online shopping experience with a focus on conversion.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="mt-4 px-5">
+<h2 class="text-lg font-bold text-slate-900 dark:text-white mb-3">Location</h2>
+<div class="bg-slate-50 dark:bg-slate-800 rounded-xl overflow-hidden shadow-sm border border-slate-100 dark:border-slate-700">
+<div class="h-40 w-full bg-cover bg-center relative" data-alt="Map view of San Francisco streets" data-location="San Francisco, California" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCCCNEtC47lCduJMAZbczIZQY2I0o5Bm4CCuyuf5Z0xH8oiHXFK00WuXuoiDSO9rGLrx07lZJDAytLe6snwtvvixxj5ee1WaA5RWarkE3Hv3cVhYBoOFoIWWsuIgia0gleoe71tndyAztjsEJJUm646xB37p59dcWWDpgTmFgnUHAxpcUVywO4tUtF2mIqBkcVnS2zArbYkfLZ3ytGLbl-jze8UZA7YrvZTX4JwKRk0J3PIfzzgyFyoLzdV7dx1PXMXzvvnF6VE2dVO");'>
+<div class="absolute inset-0 bg-white/10 dark:bg-black/20"></div>
+<div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
+<span class="material-symbols-outlined text-primary text-[40px] drop-shadow-md">location_on</span>
+</div>
+</div>
+<div class="p-4 flex items-start gap-3">
+<div class="mt-1 bg-primary/10 p-2 rounded-full text-primary">
+<span class="material-symbols-outlined text-[20px]">business</span>
+</div>
+<div>
+<p class="text-slate-900 dark:text-white font-semibold text-sm">TechFlow HQ</p>
+<p class="text-slate-500 dark:text-slate-400 text-sm leading-relaxed">123 Innovation Dr, Suite 400<br/>San Francisco, CA 94103</p>
+</div>
+<button class="ml-auto text-primary p-2 hover:bg-primary/5 rounded-full transition">
+<span class="material-symbols-outlined text-[24px]">directions</span>
+</button>
+</div>
+</div>
+</section>
+<div class="fixed bottom-6 right-6 z-50">
+<button class="bg-primary hover:bg-blue-600 text-white font-bold py-4 px-6 rounded-full shadow-2xl shadow-blue-500/40 transition-all transform hover:scale-105 active:scale-95 flex items-center gap-2">
+<span class="material-symbols-outlined">download</span>
+<span>Download and Save vCard</span>
+</button>
+</div>
+<div class="h-24"></div>
+</div>
+
+</body></html>

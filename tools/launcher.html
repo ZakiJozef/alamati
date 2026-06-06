@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3alamati Server Launcher</title>
+    <style>
+        :root {
+            --primary: #137fec;
+            --success: #22c55e;
+            --danger: #ef4444;
+            --dark: #1e293b;
+            --light: #f1f5f9;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', system-ui, sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            color: white;
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 2rem;
+        }
+
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 20px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+        }
+
+        .card h2 {
+            color: var(--dark);
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .card h2::before {
+            content: '';
+            width: 4px;
+            height: 24px;
+            background: var(--primary);
+            border-radius: 2px;
+        }
+
+        .form-group {
+            margin-bottom: 16px;
+        }
+
+        label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 6px;
+            color: #475569;
+        }
+
+        select,
+        input {
+            width: 100%;
+            padding: 12px 16px;
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: all 0.2s;
+        }
+
+        select:focus,
+        input:focus {
+            outline: none;
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px rgba(19, 127, 236, 0.1);
+        }
+
+        .btn {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #0d6edb;
+            transform: translateY(-1px);
+        }
+
+        .btn-success {
+            background: var(--success);
+            color: white;
+        }
+
+        .btn-danger {
+            background: var(--danger);
+            color: white;
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .url-box {
+            background: var(--light);
+            padding: 16px;
+            border-radius: 8px;
+            margin-top: 12px;
+            font-family: 'Consolas', monospace;
+            font-size: 14px;
+            word-break: break-all;
+        }
+
+        .url-box strong {
+            color: var(--primary);
+        }
+
+        .copy-btn {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 4px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+            margin-left: 8px;
+        }
+
+        .terminal {
+            background: #1e1e1e;
+            border-radius: 8px;
+            padding: 16px;
+            margin-top: 16px;
+            height: 200px;
+            overflow-y: auto;
+            font-family: 'Consolas', monospace;
+            font-size: 12px;
+            color: #4ade80;
+        }
+
+        .terminal::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .terminal::-webkit-scrollbar-thumb {
+            background: #4b5563;
+            border-radius: 4px;
+        }
+
+        .status {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+
+        .status-running {
+            background: rgba(34, 197, 94, 0.1);
+            color: var(--success);
+        }
+
+        .status-stopped {
+            background: rgba(239, 68, 68, 0.1);
+            color: var(--danger);
+        }
+
+        .status::before {
+            content: '';
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: currentColor;
+        }
+
+        .ip-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 8px;
+        }
+
+        .ip-badge {
+            background: var(--light);
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 13px;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: 2px solid transparent;
+        }
+
+        .ip-badge:hover,
+        .ip-badge.active {
+            border-color: var(--primary);
+            background: rgba(19, 127, 236, 0.1);
+        }
+
+        .commands-section {
+            background: #f8fafc;
+            padding: 16px;
+            border-radius: 8px;
+            margin-top: 16px;
+        }
+
+        .command-item {
+            background: white;
+            padding: 12px;
+            border-radius: 6px;
+            margin-bottom: 8px;
+            border-left: 4px solid var(--primary);
+            font-family: 'Consolas', monospace;
+            font-size: 13px;
+        }
+
+        .note {
+            background: #fef3c7;
+            border: 1px solid #fcd34d;
+            padding: 12px;
+            border-radius: 8px;
+            margin-top: 12px;
+            color: #92400e;
+            font-size: 13px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>🚀 3alamati Server Launcher</h1>
+
+        <div class="cards">
+            <!-- IP Configuration -->
+            <div class="card">
+                <h2>Network Configuration</h2>
+
+                <div class="form-group">
+                    <label>Select IP Address</label>
+                    <div class="ip-list" id="ipList">
+                        <span class="ip-badge active" onclick="selectIP('localhost')">localhost</span>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Or enter custom IP</label>
+                    <input type="text" id="customIP" placeholder="e.g., 192.168.1.100">
+                </div>
+
+                <div class="form-group">
+                    <label>API Port</label>
+                    <input type="number" id="apiPort" value="3000">
+                </div>
+
+                <div class="form-group">
+                    <label>Flutter Web Port</label>
+                    <input type="number" id="flutterPort" value="8080">
+                </div>
+
+                <div class="btn-group">
+                    <button class="btn btn-primary" onclick="detectIPs()">🔍 Detect IPs</button>
+                    <button class="btn btn-success" onclick="applyConfig()">✅ Apply Config</button>
+                </div>
+
+                <div class="note">
+                    💡 For physical device testing, use your PC's LAN IP address, not localhost.
+                </div>
+            </div>
+
+            <!-- URLs & Commands -->
+            <div class="card">
+                <h2>Server URLs</h2>
+
+                <div class="url-box">
+                    <div style="margin-bottom: 12px;">
+                        <strong>Laravel API:</strong><br>
+                        <span id="apiUrl">http://localhost:3000/api</span>
+                        <button class="copy-btn" onclick="copyToClipboard('apiUrl')">Copy</button>
+                    </div>
+                    <div style="margin-bottom: 12px;">
+                        <strong>Flutter Web:</strong><br>
+                        <span id="webUrl">http://localhost:8080</span>
+                        <button class="copy-btn" onclick="copyToClipboard('webUrl')">Copy</button>
+                    </div>
+                    <div>
+                        <strong>Flutter Constants:</strong><br>
+                        <span id="constantsUrl">http://localhost:3000/api</span>
+                        <button class="copy-btn" onclick="copyToClipboard('constantsUrl')">Copy</button>
+                    </div>
+                </div>
+
+                <div class="commands-section">
+                    <label>Commands to Run</label>
+                    <div class="command-item" id="laravelCmd">
+                        cd api && php artisan serve --host=0.0.0.0 --port=3000
+                    </div>
+                    <div class="command-item" id="flutterCmd">
+                        flutter run -d web-server --web-port=8080 --web-hostname=0.0.0.0
+                    </div>
+                    <div class="command-item" id="flutterMobileCmd">
+                        flutter run -d 192.168.0.23:42583
+                    </div>
+                </div>
+            </div>
+
+            <!-- Flutter Constants Update -->
+            <div class="card">
+                <h2>Update Flutter Constants</h2>
+                <p style="color: #64748b; margin-bottom: 16px;">
+                    Copy this code to <code>lib/core/constants.dart</code>:
+                </p>
+
+                <pre id="constantsCode"
+                    style="background: #1e1e1e; color: #4ade80; padding: 16px; border-radius: 8px; overflow-x: auto; font-size: 12px; line-height: 1.5;">
+class AppConstants {
+  // API Configuration for mobile device testing
+  static const String apiBaseUrl = 'http://192.168.0.100:3000/api';
+  static const String socketUrl = 'http://192.168.0.100:3000';
+  
+  // Rest of your constants...
+}
+                </pre>
+                <button class="btn btn-primary" style="margin-top: 12px;" onclick="copyConstants()">📋 Copy
+                    Code</button>
+            </div>
+
+            <!-- Quick Reference -->
+            <div class="card">
+                <h2>Quick Reference</h2>
+
+                <div style="margin-bottom: 16px;">
+                    <label>Demo Accounts</label>
+                    <table style="width: 100%; border-collapse: collapse; margin-top: 8px;">
+                        <tr style="background: var(--light);">
+                            <th style="padding: 8px; text-align: left;">Role</th>
+                            <th style="padding: 8px; text-align: left;">Email</th>
+                            <th style="padding: 8px; text-align: left;">Password</th>
+                        </tr>
+                        <tr>
+                            <td style="padding: 8px;">Admin</td>
+                            <td style="padding: 8px;">admin@3alamati.com</td>
+                            <td style="padding: 8px;">password123</td>
+                        </tr>
+                        <tr style="background: #fafafa;">
+                            <td style="padding: 8px;">Owner</td>
+                            <td style="padding: 8px;">owner@coffeeshop.com</td>
+                            <td style="padding: 8px;">password123</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 8px;">User</td>
+                            <td style="padding: 8px;">user@example.com</td>
+                            <td style="padding: 8px;">password123</td>
+                        </tr>
+                    </table>
+                </div>
+
+                <label>Troubleshooting</label>
+                <ul style="margin-top: 8px; padding-left: 20px; color: #64748b; line-height: 1.8;">
+                    <li>Make sure your phone and PC are on the same WiFi network</li>
+                    <li>Disable Windows Firewall or allow port 3000</li>
+                    <li>Use <code>--host=0.0.0.0</code> to allow external connections</li>
+                    <li>Update <code>constants.dart</code> with your PC's IP</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let selectedIP = 'localhost';
+
+        function detectIPs() {
+            // Common private network IP patterns to check
+            const ipList = document.getElementById('ipList');
+            ipList.innerHTML = '<span class="ip-badge active" onclick="selectIP(\'localhost\')">localhost</span>';
+
+            // This is a static list - in a real app you'd detect this server-side
+            const commonIPs = [
+                'localhost',
+                '192.168.0.100',
+                '192.168.1.100',
+                '10.0.0.100'
+            ];
+
+            // Show a message to run the PowerShell command
+            alert('Run this command in PowerShell to find your IP:\n\nipconfig | findstr IPv4\n\nThen enter your IP in the custom IP field.');
+        }
+
+        function selectIP(ip) {
+            selectedIP = ip;
+            document.querySelectorAll('.ip-badge').forEach(badge => {
+                badge.classList.remove('active');
+                if (badge.textContent === ip) {
+                    badge.classList.add('active');
+                }
+            });
+            updateURLs();
+        }
+
+        function applyConfig() {
+            const customIP = document.getElementById('customIP').value;
+            if (customIP) {
+                selectedIP = customIP;
+            }
+            updateURLs();
+            alert('Configuration applied! Copy the URLs and update constants.dart');
+        }
+
+        function updateURLs() {
+            const ip = document.getElementById('customIP').value || selectedIP;
+            const apiPort = document.getElementById('apiPort').value;
+            const flutterPort = document.getElementById('flutterPort').value;
+
+            const apiUrl = `http://${ip}:${apiPort}/api`;
+            const webUrl = `http://${ip}:${flutterPort}`;
+
+            document.getElementById('apiUrl').textContent = apiUrl;
+            document.getElementById('webUrl').textContent = webUrl;
+            document.getElementById('constantsUrl').textContent = apiUrl;
+
+            document.getElementById('laravelCmd').textContent =
+                `cd api && php artisan serve --host=0.0.0.0 --port=${apiPort}`;
+            document.getElementById('flutterCmd').textContent =
+                `flutter run -d web-server --web-port=${flutterPort} --web-hostname=0.0.0.0`;
+
+            // Update constants code
+            document.getElementById('constantsCode').textContent = `class AppConstants {
+  // API Configuration for mobile device testing
+  static const String apiBaseUrl = '${apiUrl}';
+  static const String socketUrl = 'http://${ip}:${apiPort}';
+  
+  // Rest of your constants...
+}`;
+        }
+
+        function copyToClipboard(elementId) {
+            const text = document.getElementById(elementId).textContent;
+            navigator.clipboard.writeText(text).then(() => {
+                alert('Copied: ' + text);
+            });
+        }
+
+        function copyConstants() {
+            const code = document.getElementById('constantsCode').textContent;
+            navigator.clipboard.writeText(code).then(() => {
+                alert('Constants code copied! Paste it into lib/core/constants.dart');
+            });
+        }
+
+        // Initialize
+        document.getElementById('customIP').addEventListener('input', updateURLs);
+        document.getElementById('apiPort').addEventListener('input', updateURLs);
+        document.getElementById('flutterPort').addEventListener('input', updateURLs);
+    </script>
+</body>
+
+</html>

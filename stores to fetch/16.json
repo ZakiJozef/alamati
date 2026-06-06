@@ -1,0 +1,5139 @@
+{
+  "companies": [
+    {
+      "company": {
+        "name": "AIR ALGERIE,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/air-algerie-spa/dz025204/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 65 02",
+        "email": null,
+        "address": {
+          "streetAddress": "Place Kairouan",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Transport aérien de passagers et de fret"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "ETB B.S.T",
+        "description": null,
+        "url": "https://dz.kompass.com/c/etb-b-s-t/dz168154/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 20 34",
+        "email": null,
+        "address": {
+          "streetAddress": "37, boulevard Gaouar Hocine",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Travaux de terrassement, d'excavation, de fondation et construction de tunnels",
+          "Travaux auxiliaires pour les travaux publics",
+          "Entreprises de bâtiment",
+          "Entreprises de rénovation de bâtiments"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://bst13000@hotmail.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "ALLAM & Fils ETBHTCE,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/allam-fils-etbhtce-sarl/dz167060/",
+        "logo": "https://prokcssmedia.blob.core.windows.net/sys-master-root/h78/h96/8816075145246/DZ167060.jpg",
+        "phone": "+213 661 22 70 11",
+        "email": "sarlallametfils@gmail.com",
+        "address": {
+          "streetAddress": "Placette  Commerciale",
+          "addressLocality": "Mansourah",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "35.8436126708984",
+          "longitude": "0.231666997075081"
+        },
+        "activities": [
+          "Travaux de terrassement, d'excavation, de fondation et construction de tunnels",
+          "Travaux d'infrastructures de transport",
+          "Travaux auxiliaires pour les travaux publics",
+          "Entreprises de bâtiment",
+          "Travaux de carrelage et de pavage"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Groupe DENNOUNI Algérie,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/groupe-dennouni-algerie-sarl/dz170859/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 39 39",
+        "email": "contact@groupedennouni.com",
+        "address": {
+          "streetAddress": "boulevard des 24 mètres, Sidi Seffah",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Roches plutoniques",
+          "Marbres et travertin",
+          "Sables",
+          "Cailloux et graviers",
+          "Revêtements et produits de couverture en plastique pour le bâtiment",
+          "Tubes, tuyaux, gaines et canalisations en métaux ferreux par usage",
+          "Produits en pierres artificielles et reconstituées",
+          "Ciments",
+          "Produits en béton",
+          "Constructions et éléments de construction préfabriqués en béton",
+          "Produits en grès cérame",
+          "Matériel pour le bâtiment (autres)",
+          "Production de constructions mécaniques",
+          "Démolition et travaux à l'explosif",
+          "Travaux de terrassement, d'excavation, de fondation et construction de tunnels",
+          "Travaux auxiliaires pour les travaux publics",
+          "Travaux d'irrigation, d'aménagement de puits et de sources, et d'approvisionnement d'eau",
+          "Travaux de prospection et d'extraction minières",
+          "Entreprises de bâtiment",
+          "Travaux auxiliaires pour le bâtiment",
+          "Travaux en béton",
+          "Travaux d'installation de tuyauterie et de canalisations pour le bâtiment",
+          "Travaux de peinture et d'enduit de façades",
+          "Travaux d'isolation et d'étanchéification des bâtiments",
+          "Travaux d'installation et de maintenance de gaz, eau, chauffage, ventilation et conditionnement d'air",
+          "Travaux de vitrerie de bâtiment",
+          "Importateurs et exportateurs",
+          "Location de matériel industriel"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "TAGRART 13",
+        "description": null,
+        "url": "https://dz.kompass.com/c/tagrart-13/dz265114/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 31 18",
+        "email": "karaouzene.amina@gmail.com",
+        "address": {
+          "streetAddress": "Champ de Tir plan de lotissement n°43 local n°01",
+          "addressLocality": "Mansourah",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Services paysagers",
+          "Gestion forestière"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "ETP DENNOUNI,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/etp-dennouni-sarl/dz220613/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 84 53",
+        "email": "contact@groupedennouni.com",
+        "address": {
+          "streetAddress": "Boulevard des 24 mètres Sidi Seffah",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Travaux de terrassement, d'excavation, de fondation et construction de tunnels",
+          "Travaux auxiliaires pour les travaux publics",
+          "Travaux de prospection et d'extraction minières",
+          "Entreprises de bâtiment",
+          "Travaux auxiliaires pour le bâtiment",
+          "Travaux de couverture, de toiture, de zinguerie et de bardage",
+          "Pose de clôtures et palissades",
+          "Associations professionnelles"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "ETPBH RAHOUI Youcef & OUELD HAMLILI,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/etpbh-rahoui-youcef-oueld-hamlili-sarl/dz253826/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 68 43",
+        "email": "etpbhrahoui@yahoo.fr",
+        "address": {
+          "streetAddress": "Zone Industrielle Desserte n°4",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Travaux de terrassement, d'excavation, de fondation et construction de tunnels",
+          "Travaux auxiliaires pour les travaux publics",
+          "Travaux de prospection et d'extraction minières",
+          "Entreprises de bâtiment",
+          "Travaux auxiliaires pour le bâtiment",
+          "Travaux de peinture et d'enduit de façades",
+          "Location de véhicules de transport sur route",
+          "Conseil immobilier",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Benhadj Serradj Abdelmadjid",
+        "description": null,
+        "url": "https://dz.kompass.com/c/benhadj-serradj-abdelmadjid/dz276529/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 63 66",
+        "email": "etpbh13@yahoo.fr",
+        "address": {
+          "streetAddress": "118 Cité les dahlias El kifane",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers",
+          "Sociétés de holding"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "BEL PLAST,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/bel-plast-sarl/dz166503/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 15 72",
+        "email": "sarl.del.plast@gmail.com",
+        "address": {
+          "streetAddress": "ZI, Route de Chetouane Desserte n°7 et n°8",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.9212989807129",
+          "longitude": "-1.29512000083923"
+        },
+        "activities": [
+          "Impression sur supports spécifiques",
+          "Plaques et panneaux plastiques",
+          "Sacs et sachets en plastique",
+          "Sacs et sachets en plastique par usage",
+          "Articles en plastique pour l'agriculture et l'horticulture",
+          "Articles en plastique pour l'imprimerie"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Comptoir de l'Automobile,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/comptoir-de-l-automobile-sarl/dz182523/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 555 05 47 37",
+        "email": "comptoir-automobile@hotmail.fr",
+        "address": {
+          "streetAddress": "Cité les Amandier El Kiffen",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Tarauds, matrices, filières, poinçons, forets et outillages similaires",
+          "Moteurs marins",
+          "Pièces pour systèmes de combustion pour moteurs à combustion interne",
+          "Pièces pour circuits de lubrification",
+          "Pièces pour moteurs à combustion interne (autres)",
+          "Pompes à air",
+          "Ressorts",
+          "Amortisseurs mécaniques",
+          "Matériel de filtration de l'air",
+          "Accumulateurs, batteries et piles électriques rechargeables par usage",
+          "Véhicules utilitaires",
+          "Pièces et accessoires pour remorques légères et caravanes",
+          "Carrosseries pour véhicules automobiles",
+          "Pièces détachées pour carrosseries de véhicules automobiles",
+          "Organes de transmission pour véhicules automobiles",
+          "Pièces de systèmes de direction et de suspension pour véhicules automobiles",
+          "Pièces de systèmes de freinage pour véhicules automobiles",
+          "Pièces de systèmes de commande de véhicules automobiles",
+          "Systèmes de ventilation, de chauffage et de conditionnement d'air pour véhicules automobiles",
+          "Equipements électriques et électroniques pour véhicules automobiles",
+          "Accessoires pour véhicules automobiles",
+          "Commerce de détail"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Techam plus,Eurl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/techam-plus-eurl/dz275717/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 43 47 79",
+        "email": "t.kaidsliman@gmail.com",
+        "address": {
+          "streetAddress": "rue 20 aout n°14 telemcen 13000",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Travaux de terrassement, d'excavation, de fondation et construction de tunnels",
+          "Travaux auxiliaires pour les travaux publics",
+          "Entreprises de bâtiment"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Benguella Mohamed El Amine",
+        "description": null,
+        "url": "https://dz.kompass.com/c/benguella-mohamed-el-amine/dz276526/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 26 26 23",
+        "email": "bma.prom@hotmail.com",
+        "address": {
+          "streetAddress": "Rue Hadri Mansour N°40",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Batiment Bouchenak,Eurl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/batiment-bouchenak-eurl/dz276591/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 40 48 10",
+        "email": "contact@latafna.com",
+        "address": {
+          "streetAddress": "Zone Industrielle Defla N°09 local 02",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "BIA CONSTRUCTION,EURL",
+        "description": null,
+        "url": "https://dz.kompass.com/c/bia-construction-eurl/dz254489/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 42 46 46",
+        "email": "yacinetlm@hotmail.com",
+        "address": {
+          "streetAddress": "4, rue Allal Fethi Bel Air",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Travaux de terrassement, d'excavation, de fondation et construction de tunnels",
+          "Travaux auxiliaires pour les travaux publics",
+          "Entreprises de bâtiment",
+          "Travaux de carrelage et de pavage",
+          "Travaux de décoration et d'aménagement intérieurs",
+          "Services immobiliers et fonciers",
+          "Zones industrielles",
+          "Services de crédit-bail et de cession-bail",
+          "Sociétés de holding",
+          "Location de matériel industriel",
+          "Location de matériel de manutention",
+          "Location de matériel pour le génie civil, le bâtiment et les travaux publics",
+          "Conseil en aménagement du territoire et urbanisme"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "ARTIPLOM",
+        "description": null,
+        "url": "https://dz.kompass.com/c/artiplom/dz271236/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 773 25 75 14",
+        "email": "artiplom1@gmail.com",
+        "address": {
+          "streetAddress": "213, auto Construction, 2éme Tranche",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Services de chauffage urbain",
+          "Systèmes de détection et d'alarmes incendie",
+          "Installations de chauffage central",
+          "Installations de chauffage par le sol ou le plafond",
+          "Matériel industriel de chauffage électrique par usage",
+          "Installations de ventilation et de climatisation",
+          "Climatiseurs",
+          "Installation et maintenance du matériel pour l'industrie du chauffage, de la réfrigération et de la ventilation",
+          "Systèmes de régulation automatique",
+          "Matériel pour l'industrie des huiles et corps gras industriels",
+          "Entreprises de bâtiment",
+          "Travaux d'installation et de maintenance de gaz, eau, chauffage, ventilation et conditionnement d'air",
+          "Travaux de construction et de maintenance de piscines",
+          "Maintenance des égouts, nettoyage de canalisations et réservoirs"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.artiplom.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Entreprise Dannouni Promotion Immobiliere, Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/entreprise-dannouni-promotion-immobiliere-sarl/dz276457/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 34 27 39 39",
+        "email": "pdg@groupedennouni.com",
+        "address": {
+          "streetAddress": "Moulay Aek, Bd 24 métiers",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Den Prim, Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/den-prim-sarl/dz276460/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 50 00",
+        "email": null,
+        "address": {
+          "streetAddress": "Bd des 24 metre sidi boushak",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Irid, Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/irid-sarl/dz276468/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 42 40 83",
+        "email": "irid_tlm@yahoo.fr",
+        "address": {
+          "streetAddress": "Zouia Local A 01",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Merbouh live, Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/merbouh-live-sarl/dz276467/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 81 00",
+        "email": "lemtp13@gmail.com",
+        "address": {
+          "streetAddress": "Coop immobiliere el Djidar n°169",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Mag Pro, Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/mag-pro-sarl/dz276463/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 71 19",
+        "email": "sarl_benabdallah@yahoo.fr",
+        "address": {
+          "streetAddress": "Local n°01 Lotissement Chira n°308 ilot 08",
+          "addressLocality": "Mansourah",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "DIRECTION DE L'URBANISME ET DE LA CONSTRUCTION",
+        "description": null,
+        "url": "https://dz.kompass.com/c/direction-de-l-urbanisme-et-de-la-construction/dz276527/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 26 32 83",
+        "email": "ductelemcen@gmail.com",
+        "address": {
+          "streetAddress": "Place 1er mai",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Administrations publiques"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "KS DELICE D'AMLOU",
+        "description": null,
+        "url": "https://dz.kompass.com/c/ks-delice-d-amlou/dz277686/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 560 25 47 81",
+        "email": "saillardkarim@gmail.com",
+        "address": {
+          "streetAddress": "Nedroma Hai Louiza",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Produits apicoles",
+          "Aliments diététiques",
+          "Fruits à coque préparés",
+          "Huiles alimentaires",
+          "Commerce de gros"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Ouadfel Sif El Islam",
+        "description": null,
+        "url": "https://dz.kompass.com/c/ouadfel-sif-el-islam/dz274246/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 38 01 56",
+        "email": null,
+        "address": {
+          "streetAddress": "39, Abou Tachfine sous sol",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Hamza Cherif Ghouti",
+        "description": null,
+        "url": "https://dz.kompass.com/c/hamza-cherif-ghouti/dz276546/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 20 27 00",
+        "email": "hamzacherif52@gmail.com",
+        "address": {
+          "streetAddress": "El Kiffane Résidence Ibn M'Saib Bt D Rez de chaussée N°06",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Habi Yahia",
+        "description": null,
+        "url": "https://dz.kompass.com/c/habi-yahia/dz276544/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 40 60 56",
+        "email": "habiyahia13@gmail.com",
+        "address": {
+          "streetAddress": "Cité Ain Defla ilot N°101 Section 86",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Boudjemaa Abdelaziz",
+        "description": null,
+        "url": "https://dz.kompass.com/c/boudjemaa-abdelaziz/dz276541/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 60 20",
+        "email": "etpbh_boudjemaa@yahoo.fr",
+        "address": {
+          "streetAddress": "Cité el Kifan lotissement les Dalias N°1047",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Travaux auxiliaires pour les travaux publics",
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Bensaid Abderrahim",
+        "description": null,
+        "url": "https://dz.kompass.com/c/bensaid-abderrahim/dz276537/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 770 52 91 81",
+        "email": null,
+        "address": {
+          "streetAddress": "Lotissement Nord Champ N°10",
+          "addressLocality": "Mansourah",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Benmansour Moulay Djelloul",
+        "description": null,
+        "url": "https://dz.kompass.com/c/benmansour-moulay-djelloul/dz276536/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 21 44 70",
+        "email": null,
+        "address": {
+          "streetAddress": "07, Lot Boudghene Stambouli Hai Essalem local N°01",
+          "addressLocality": "Mansourah",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Benmansour Ahmed Zaki",
+        "description": null,
+        "url": "https://dz.kompass.com/c/benmansour-ahmed-zaki/dz276534/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 770 61 22 13",
+        "email": "zakibenmansour2@yahoo.fr",
+        "address": {
+          "streetAddress": "Cité Sidi Chakar N°02 Section 218 ilot 48",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Benkebouche Boufeldja",
+        "description": null,
+        "url": "https://dz.kompass.com/c/benkebouche-boufeldja/dz276533/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 775 16 64 71",
+        "email": "mail.mourad@gmail.com",
+        "address": {
+          "streetAddress": "Route Chatouane section 91 ilot de propriété N°21",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Tassili Power,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/tassili-power-sarl/dz272881/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 770 45 53 14",
+        "email": null,
+        "address": {
+          "streetAddress": "lmama Aichouba EL kABIRA,n°02 Mansourah",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Kalache Mohamed Sid Ahmed",
+        "description": null,
+        "url": "https://dz.kompass.com/c/kalache-mohamed-sid-ahmed/dz276554/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 552 91 05 24",
+        "email": null,
+        "address": {
+          "streetAddress": "Cité El KIffan Résidence Salef El Adra Bt B4",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Otmani Sidi Mohammed",
+        "description": null,
+        "url": "https://dz.kompass.com/c/otmani-sidi-mohammed/dz276576/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 661 37 59 96",
+        "email": "sidimohamedotmani@gmail.com",
+        "address": {
+          "streetAddress": "Centre Commercial la placette lot E N°23",
+          "addressLocality": "Mansourah",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "OPGI Tlemcen",
+        "description": null,
+        "url": "https://dz.kompass.com/c/opgi-tlemcen/dz276566/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 21 09 11",
+        "email": "opgitle@yahoo.fr",
+        "address": {
+          "streetAddress": "Hai Nassim,Cité 1750 logts Imama",
+          "addressLocality": "Mansourah",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://opgitlemcen.dz"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Dali Yahia ET Cie,Snc",
+        "description": null,
+        "url": "https://dz.kompass.com/c/dali-yahia-et-cie-snc/dz276583/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 20 48 35",
+        "email": "daliyahia.promo@gmail.com",
+        "address": {
+          "streetAddress": "Cité les dahias el kifan N°449",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "BHT Constructions,Eurl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/bht-constructions-eurl/dz276587/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 43 41 21",
+        "email": null,
+        "address": {
+          "streetAddress": "Cité khemisti zone industrielle N°15 lot N°02",
+          "addressLocality": "Hennaya",
+          "postalCode": "13550",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Benchouk Architecte Promoteur,Eurl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/benchouk-architecte-promoteur-eurl/dz276595/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 770 37 42 66",
+        "email": null,
+        "address": {
+          "streetAddress": "08 Boulvard Ain Sba Ali",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Entreprise de Production & de Commercialisation des Matériaux de Construction,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/entreprise-de-production-de-commercialisation-des-materiaux/dz162470/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 43 45 13",
+        "email": "emaco-tlemcen@live.fr",
+        "address": {
+          "streetAddress": "Zone semi industrielle",
+          "addressLocality": "Hennaya",
+          "postalCode": "13550",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Produits en pierres artificielles et reconstituées",
+          "Produits en béton",
+          "Produits en béton armé",
+          "Constructions et éléments de construction préfabriqués en béton",
+          "Installation et maintenance du matériel pour les travaux publics et le bâtiment",
+          "Travaux en béton",
+          "Location de matériel pour le génie civil, le bâtiment et les travaux publics"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Abderrahim Mohamed",
+        "description": null,
+        "url": "https://dz.kompass.com/c/abderrahim-mohamed/dz276608/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 21 41 01",
+        "email": null,
+        "address": {
+          "streetAddress": "Lotissement Kourssou section J Immama",
+          "addressLocality": "Mansourah",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "L'Algérienne des Assurances,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/l-algerienne-des-assurances-spa/dz206660/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 22 23 72",
+        "email": null,
+        "address": {
+          "streetAddress": "6, Rue 18 Février bt B n°116 Logements Imama",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Compagnies d'assurances-vie",
+          "Compagnies générales d'assurances",
+          "Compagnies de réassurances"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.gig.dz"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Sirat Derrouiche",
+        "description": null,
+        "url": "https://dz.kompass.com/c/sirat-derrouiche/dz276615/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 552 59 18 93",
+        "email": null,
+        "address": {
+          "streetAddress": "Local 06 Ben Sekrane",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Tandjaoui Mustapha",
+        "description": null,
+        "url": "https://dz.kompass.com/c/tandjaoui-mustapha/dz276620/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 42 12 99",
+        "email": "mu.tandjaouipromo@gmail.com",
+        "address": {
+          "streetAddress": "472, Lotissement El Hebak champ de tire",
+          "addressLocality": "Mansourah",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "E.T.P.M.H Metri,Eurl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/e-t-p-m-h-metri-eurl/dz276605/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 43 92 36",
+        "email": "eurlmetri@outlook.fr",
+        "address": {
+          "streetAddress": "Boulvard Bekhti Miloud B9 Remchi",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Racim Line,Eurl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/racim-line-eurl/dz276597/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 558 87 71 27",
+        "email": "eurlracimline@gmail.com",
+        "address": {
+          "streetAddress": "Route de Chatouane début de la zone industrielle N°01 local 07",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Ets BABA AHMED Younes",
+        "description": null,
+        "url": "https://dz.kompass.com/c/ets-baba-ahmed-younes/dz269054/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 25 80",
+        "email": "younes13000@hotmail.com",
+        "address": {
+          "streetAddress": "Route de Saf Saf",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Beloufa security",
+        "description": null,
+        "url": "https://dz.kompass.com/c/beloufa-security/dz268242/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 669 74 07 79",
+        "email": "omar.beloufa@hotmail.fr",
+        "address": {
+          "streetAddress": "local N°50 Bat TA Boudjilda",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Systèmes de détection et d'alarmes incendie",
+          "Systèmes de détection et d'alarmes (autres)",
+          "Systèmes anti-vols",
+          "Systèmes de contrôle d'accès et de surveillance",
+          "Systèmes de détection d'intrusion",
+          "Installation et maintenance du matériel de sécurité",
+          "Caméras",
+          "Serveurs informatiques",
+          "Ordinateurs personnels",
+          "Câbles informatiques",
+          "Matériel pour réseau informatique",
+          "Maintenance informatique",
+          "Services d'externalisation des services informatiques",
+          "Travaux d'installation électrique",
+          "Travaux d'installation de systèmes de protection contre l'incendie et de sécurité. Travaux de serrurerie",
+          "Essais et contrôle de matériel et de locaux"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Yelles Chaouche Lotfi",
+        "description": null,
+        "url": "https://dz.kompass.com/c/yelles-chaouche-lotfi/dz276641/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 555 99 04 24",
+        "email": null,
+        "address": {
+          "streetAddress": "Rue Hamsali Sayeh Miloud N°49 section 206 ilot N°31 local 02",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Touil Abdelouahab Khaled",
+        "description": null,
+        "url": "https://dz.kompass.com/c/touil-abdelouahab-khaled/dz276637/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 556 77 90 46",
+        "email": "touil19@live.fr",
+        "address": {
+          "streetAddress": "Local A Aboutchafine section 49 ilot N°31",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Tchouar Mourad",
+        "description": null,
+        "url": "https://dz.kompass.com/c/tchouar-mourad/dz276630/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 11 84",
+        "email": "tchouar-morad@live.fr",
+        "address": {
+          "streetAddress": "07, Rue Gouar Hocine bab zir",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Tchouar Mohamed Choukri",
+        "description": null,
+        "url": "https://dz.kompass.com/c/tchouar-mohamed-choukri/dz276628/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 20 76",
+        "email": "ingextmc@gmail.com",
+        "address": {
+          "streetAddress": "Rue Babylone actuallement 08 rue commandant djaber",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Entreprises de bâtiment",
+          "Services immobiliers et fonciers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Hôtel RENAISSANCE",
+        "description": null,
+        "url": "https://dz.kompass.com/c/hotel-renaissance/dz257090/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 40 11 11",
+        "email": null,
+        "address": {
+          "streetAddress": "Plateau de Lalla Setti",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Hôtels et motels"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "HB Home Business & Investment Consulting,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/hb-home-business-investment-consulting-sarl/dz271278/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 780 31 75 01",
+        "email": null,
+        "address": {
+          "streetAddress": "Boulevard El Kiffane",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Conseil en gestion d'entreprise",
+          "Conseil en marketing",
+          "Services de crédit-bail et de cession-bail",
+          "Conseil financier et en investissement",
+          "Conseil en tourisme et loisirs",
+          "Conseil pour la formation et l'enseignement"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Bet Athar Ait Ouhamou Malek",
+        "description": null,
+        "url": "https://dz.kompass.com/c/bet-athar-ait-ouhamou-malek/dz275470/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 26 54 57",
+        "email": "betathar13@yahoo.fr",
+        "address": {
+          "streetAddress": "02, Rue haddouche mohamed",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Architectes",
+          "Conseil en santé, sécurité et prévention des accidents"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "BENJECT Industrie,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/benject-industrie-sarl/dz234222/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 26 13 01",
+        "email": "benject_industrie@hotmail.com",
+        "address": {
+          "streetAddress": "Siège Scial: Zone Industrielle Desserte 6 route de Chetouane Telemcen",
+          "addressLocality": "Mansourah",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "35.8436126708984",
+          "longitude": "0.231666997075081"
+        },
+        "activities": [
+          "Produits d'hygiène bucco-dentaire",
+          "Importateurs et exportateurs"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Egt Tlemcen, Spa Hotêl Les Zianides",
+        "description": null,
+        "url": "https://dz.kompass.com/c/egt-tlemcen-spa-hotel-les-zianides/dz275406/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 71 21",
+        "email": "zianides@egtt-dz.com",
+        "address": {
+          "streetAddress": "Boulvard Ali khdim",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Hôtels et motels"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.egtt-dz.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "PROCHIMA-SIGMA,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/prochima-sigma-sarl/dz162517/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 44 96 35 35",
+        "email": "contact@prochima-sigma.com",
+        "address": {
+          "streetAddress": "Zone d'activité:Zone Industrielle Khemisti Mostakbel Hennaya lot n°2",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Bouillons de culture, solutions pour culture de cellules fraîches",
+          "Balances et matériel de pesage par usage",
+          "Thermostats",
+          "Microscopes par usage",
+          "Matériel de mélange pour l'industrie chimique",
+          "Filtres pour l'industrie chimique",
+          "Matériel général pour laboratoires",
+          "Matériel pour laboratoires de microbiologie",
+          "Matériel pour laboratoires pharmaceutiques et cosmétiques",
+          "Matériel de production pour les industries pharmaceutique et cosmétique",
+          "Importateurs et exportateurs"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.prochima-sigma.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "SAFFEC CARE,Sarl Hygiéne Corporelle",
+        "description": null,
+        "url": "https://dz.kompass.com/c/saffec-care-sarl-hygiene-corporelle/dz022696/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 40 42 10",
+        "email": "saffeccaredz@gmail.com",
+        "address": {
+          "streetAddress": "Lot N°93 Ain Defla Zone Industrielle Chetouane,Tlemcen;Algérie",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Plantes à fibres textiles",
+          "Filés et fils retors de fibres chimiques",
+          "Fils à coudre et à broder",
+          "Articles textiles pour usages médicaux et chirurgicaux",
+          "Articles en caoutchouc pour usages médicaux, vétérinaires et pour laboratoires"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.saffec-care.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "HADJ SLIMANE PARAPHARM,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/hadj-slimane-parapharm-sarl/dz280274/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 561 61 66 46",
+        "email": "contact@hsparapharm.com",
+        "address": {
+          "streetAddress": "Local 02 n°169 lot 211 part h18 section 35 ilot prop 83 Mansourah",
+          "addressLocality": "Mansourah",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Gaz comprimés et liquéfiés. Gaz réfrigérants",
+          "Matériel à ultraviolets, à infrarouges et de radiologie pour applications biologiques et médicales",
+          "Microscopes par usage",
+          "Commerce de gros"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.hsparapharm.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Société d'Etudes & de Réalisations Métalloplastique,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/societe-d-etudes-de-realisations-metalloplastique-spa/dz214782/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 47 03",
+        "email": "dg.soremep@gmail.com",
+        "address": {
+          "streetAddress": "Zone Industrielle Desserte n°6, route de Chetouane",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.9212989807129",
+          "longitude": "-1.29512000083923"
+        },
+        "activities": [
+          "Armoires et placards pour la maison",
+          "Mobilier de bureau",
+          "Mobilier de rangement pour bureaux",
+          "Mobilier pour laboratoires",
+          "Mobilier de sécurité",
+          "Mobilier de rangement pour hôpitaux et cabinets médicaux",
+          "Mobilier pour hôpitaux et cabinets médicaux (autres)",
+          "Portes en métal",
+          "Fenêtres en métal",
+          "Circuits imprimés",
+          "Ascenseurs et monte-charges",
+          "Composants et accessoires d'élévateurs et d'ascenseurs",
+          "Rayonnages industriels",
+          "Estampage de pièces métalliques",
+          "Emboutissage de pièces métalliques",
+          "Tôlerie",
+          "Décolletage par industrie",
+          "Perçage des pièces métalliques",
+          "Traitement thermique des pièces métalliques",
+          "Traitement chimique des pièces métalliques",
+          "Revêtement non métallique des surfaces métalliques",
+          "Revêtement des plastiques et du caoutchouc",
+          "Equipements électriques et électroniques pour véhicules automobiles",
+          "Importateurs et exportateurs"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.soremep.dz"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "EL FALAK,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/el-falak-sarl/dz277434/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 550 09 18 00",
+        "email": "sarl.elfalak@gmail.com",
+        "address": {
+          "streetAddress": "65, Cité la tafna local n°01",
+          "addressLocality": "Maghnia",
+          "postalCode": "13300",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Légumes fruits",
+          "Fruits tropicaux et subtropicaux",
+          "Fromages",
+          "Fruits séchés",
+          "Produits surgelés (autres)",
+          "Boissons lactées",
+          "Importateurs et exportateurs"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "El MOUROUDJ SEBDOU,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/el-mouroudj-sebdou-sarl/dz240136/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 54 09 11",
+        "email": "mouroudj.tafraoua@yahoo.fr",
+        "address": {
+          "streetAddress": "Cité Hafs Ahmed Tinardjef Sebdou",
+          "addressLocality": "Sebdou",
+          "postalCode": "13200",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Laits",
+          "Beurres",
+          "Fromages",
+          "Produits surgelés (autres)"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "HALIB ENNADJAH,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/halib-ennadjah-sarl/dz253221/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 49 16 15",
+        "email": "sarlhalibennadjah@gmail.com",
+        "address": {
+          "streetAddress": "Cité Bilel",
+          "addressLocality": "Maghnia",
+          "postalCode": "13300",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8555297851563",
+          "longitude": "-1.72838997840881"
+        },
+        "activities": [
+          "Laits",
+          "Beurres"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Laiterie LA MAISON DU LAIT,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/laiterie-la-maison-du-lait-sarl/dz217334/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 44 49 44",
+        "email": "wafaa.bouayad-agha@lamaisondulait.com",
+        "address": {
+          "streetAddress": "Zone Industrielle Remchi lot E9",
+          "addressLocality": "Remchi",
+          "postalCode": "13500",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.9967193603516",
+          "longitude": "-1.384889960289"
+        },
+        "activities": [
+          "Laits",
+          "Crèmes",
+          "Glaces et sorbets",
+          "Beurres",
+          "Fromages"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.lamaisondulait.dz"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "CEI HALFAOUI Cabinet d'Expertise Industrielle",
+        "description": null,
+        "url": "https://dz.kompass.com/c/cei-halfaoui-cabinet-d-expertise-industrielle/dz260434/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 37 65",
+        "email": "contact@cei-halfaoui.com",
+        "address": {
+          "streetAddress": "65, rue Dr Damardji",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Conseil en gestion des déchets toxiques et chimiques",
+          "Conseil en gestion des déchets domestiques et industriels",
+          "Conseil en écologie et en environnement (autres)",
+          "Conseil en gestion d'entreprise",
+          "Conseil en développement industriel",
+          "Conseil et services en gestion financière",
+          "Conseil en marketing",
+          "Etudes de marché",
+          "Conseil financier et en investissement",
+          "Compagnies générales d'assurances",
+          "Certification de systèmes de management (SM)"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.cei-halfaoui.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Electroménager,Electronique,cuisine",
+        "description": null,
+        "url": "https://dz.kompass.com/c/electromenager-electronique-cuisine/dz271823/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 770 433588",
+        "email": "rabah.store@hotmail.com",
+        "address": {
+          "streetAddress": "el-kiffen,",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Articles en bois pour la cuisine",
+          "Mobilier de cuisine",
+          "Travaux en sous-traitance pour l'industrie du meuble",
+          "Moteurs électriques d'une puissance inférieure à 1 kW",
+          "Compresseurs par usage",
+          "Installations de ventilation et de climatisation",
+          "Climatiseurs",
+          "Pièces pour matériel de climatisation et de ventilation",
+          "Ventilateurs",
+          "Installation et maintenance du matériel pour l'industrie du chauffage, de la réfrigération et de la ventilation",
+          "Limiteurs de surtension",
+          "Relais électroniques",
+          "Systèmes de régulation automatique",
+          "Matériel de cuisson pour la restauration",
+          "Matériel de cuisson pour la maison",
+          "Matériel de cuisine pour la maison (autres)",
+          "Travaux d'installation et de maintenance de gaz, eau, chauffage, ventilation et conditionnement d'air",
+          "Matériel de production d'énergie solaire photovoltaïque, solaire thermale et héliothermique",
+          "Importateurs et exportateurs",
+          "Commerce de détail",
+          "Conseil en esthétique industrielle"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "TRANSPAC,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/transpac-sarl/dz163436/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 770 95 83 13",
+        "email": "transpac.13@gmail.com",
+        "address": {
+          "streetAddress": "Ain youcef, Tlemcen",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Papiers couchés",
+          "Papiers et cartons à usage graphique pour l'impression",
+          "Papiers spéciaux",
+          "Films photographiques",
+          "Cartons",
+          "Papiers et cartons ondulés",
+          "Rouleaux et tubes en papier ou en carton",
+          "Traitement du papier et du carton",
+          "Importateurs et exportateurs"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "LIMAM Pièces Véhicules,EURL",
+        "description": null,
+        "url": "https://dz.kompass.com/c/limam-pieces-vehicules-eurl/dz162501/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 661 22 06 68",
+        "email": null,
+        "address": {
+          "streetAddress": "7, Cité Les Oliviers, rue 38 n°9",
+          "addressLocality": "Maghnia",
+          "postalCode": "13300",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8555297851563",
+          "longitude": "-1.72838997840881"
+        },
+        "activities": [
+          "Pièces et accessoires pour matériel agricole",
+          "Pièces détachées pour carrosseries de véhicules automobiles",
+          "Organes de transmission pour véhicules automobiles",
+          "Equipements électriques et électroniques pour véhicules automobiles",
+          "Accessoires pour véhicules automobiles",
+          "Importateurs et exportateurs"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Algeria Mousse Polyuréthane,EURL",
+        "description": null,
+        "url": "https://dz.kompass.com/c/algeria-mousse-polyurethane-eurl/dz162442/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 60 70",
+        "email": "eurl.amp@hotmail.fr",
+        "address": {
+          "streetAddress": "Route de Chetouane, Zone Industrielle Desserte n°5",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Housses",
+          "Linge de lit",
+          "Matelas",
+          "Coussins et oreillers"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "L'EXQUISE",
+        "description": null,
+        "url": "https://dz.kompass.com/c/l-exquise/dz280258/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 65 21",
+        "email": "contact@exquise1928.com",
+        "address": {
+          "streetAddress": "Z.I Desserte N°05 Chetouane ,Tlemcen",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Sirops",
+          "Sodas, colas et boissons rafraîchissantes sans alcool (BRSA)",
+          "Traitement et conditionnement de boissons"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Etablissement KEMMACHE Rachid",
+        "description": null,
+        "url": "https://dz.kompass.com/c/etablissement-kemmache-rachid/dz240894/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 550 39 54 21",
+        "email": null,
+        "address": {
+          "streetAddress": "Cité Les 400 Bt B1 n°3",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Confiseries de sucre"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "AIN AL MANSOUR Expresso Point,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/ain-al-mansour-expresso-point-sarl/dz250135/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 26 39 17",
+        "email": "ain.almansour@free.fr",
+        "address": {
+          "streetAddress": "34, boulevard Hô Chi Minh",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Café et succédanés",
+          "Matériel de préparation du café, du thé et de la chicorée",
+          "Matériel pour la restauration (autres)",
+          "Importateurs et exportateurs"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Marbrerie du Moghreb,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/marbrerie-du-moghreb-sarl/dz206269/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 43 43 26",
+        "email": "marmog@mail.com",
+        "address": {
+          "streetAddress": "Zone d'Activité El Mostaqbel",
+          "addressLocality": "Hennaya",
+          "postalCode": "13550",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.9967193603516",
+          "longitude": "-1.384889960289"
+        },
+        "activities": [
+          "Marbres et travertin",
+          "Revêtements et produits de couverture en plastique pour le bâtiment",
+          "Produits en fibres-ciment",
+          "Produits en plâtre",
+          "Produits pour le bâtiment en céramique et clinker",
+          "Carreaux céramiques",
+          "Matériel de taille du marbre et du granit"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.marmog.net"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Literie Belit,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/literie-belit-sarl/dz014904/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 57 63 46",
+        "email": "sarlbelit@yahoo.fr",
+        "address": {
+          "streetAddress": "14, rue Abi Ayad Abdelkrim Faubourg Pasteur",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Lits pour la maison et accessoires",
+          "Mobilier capitonné",
+          "Linge de lit",
+          "Couvertures de lit et courtepointes",
+          "Sacs de couchage",
+          "Matelas"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "GFAF Voyages",
+        "description": null,
+        "url": "https://dz.kompass.com/c/gfaf-voyages/dz076633/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 49 52 31",
+        "email": null,
+        "address": {
+          "streetAddress": "52, rue Larbi Tebessi",
+          "addressLocality": "Maghnia",
+          "postalCode": "13300",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Agences de voyages"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.gfafvoyages.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Etablissement MEFLAHI",
+        "description": "Entreprise de travaux bâtiment.",
+        "url": "https://dz.kompass.com/c/etablissement-meflahi/dz264362/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 771 75 95 90",
+        "email": "meffarid2007@gmail.com",
+        "address": {
+          "streetAddress": "Ain Zahraoua",
+          "addressLocality": "Maghnia",
+          "postalCode": "13300",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Entreprise Bâtiment & Travaux Publics & Hydraulique BOUDJEMAA Mohamed",
+        "description": "Réalisation des travaux publics et bâtiment, hydraulique Location et transport d'engins des travaux de terrassement Gaz.",
+        "url": "https://dz.kompass.com/c/entreprise-batiment-travaux-publics-hydraulique-boudjemaa/dz264808/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 42 32 98",
+        "email": "boudjemaamohamed882@yahoo.fr",
+        "address": {
+          "streetAddress": "Bureau:Zone de Service Bouhanek",
+          "addressLocality": "Mansourah",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Chambre de Commerce & d'Industrie,EPIC",
+        "description": "Chambre de commerce et d'industrie. Formation de: -Comptabilité -Commissionnaire en douanes -Informatique bureautique -Langues étrangères -Management -GRH -Marketing -Qualité -BTPH -Finances",
+        "url": "https://dz.kompass.com/c/chambre-de-commerce-d-industrie-epic/dz014930/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 41 12 06",
+        "email": null,
+        "address": {
+          "streetAddress": "1, avenue El Yebdri Mansour",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.ccitafna.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Exploitation Analyse Développement Electronique",
+        "description": "-Infrastructures numériques du batiment. -Systémes de sécurité éléctronique et domotique -Contrôle d'accés.",
+        "url": "https://dz.kompass.com/c/exploitation-analyse-developpement-electronique/dz163551/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 555 22 13 13",
+        "email": "expand13@gmail.com",
+        "address": {
+          "streetAddress": "Villa 78 Les Dahlias Kiffane",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.expand13.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Briqueterie MEZAOUROU SOUAHLIA,Sarl",
+        "description": "Fabrication et distribution de briques",
+        "url": "https://dz.kompass.com/c/briqueterie-mezaourou-souahlia-sarl/dz266809/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 560 83 83 83",
+        "email": "briqueteriemezaourou@gmail.com",
+        "address": {
+          "streetAddress": "Mezaourou Sidi Brahim",
+          "addressLocality": "Souahlia",
+          "postalCode": "13420",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "TALEB Aluminium",
+        "description": "-Distribution de profilés et accessoires en aluminium (de la marque STRUGAL). -Menuiseries en aluminium.",
+        "url": "https://dz.kompass.com/c/taleb-aluminium/dz266368/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 555 03 47 25",
+        "email": "rafik_alu@hotmail.com",
+        "address": {
+          "streetAddress": "Zone industrielle n°104 local G desserte n°7",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "ANATOMIS ADVANCED DIAGNOSTICS",
+        "description": "Spécialisée dans l'anatomie numérique et clinique. -Etude et realisation de modèles et modélisations expertisées en 3D -Etude le connectivité structurelle cérébrale par la tractographie DTI-MRI -Planifications et simulations chirurgicales 3D.",
+        "url": "https://dz.kompass.com/c/anatomis-advanced-diagnostics/dz280191/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 770 111 500",
+        "email": "contact@anatomis.com",
+        "address": {
+          "streetAddress": "495, Les Dahlias,El kiffane, Tlemsen",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.anatomis.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Sarl Pro Carton Emballage",
+        "description": "-Carton et caisse américaine en carton onduler Transformation du papier et du carton.",
+        "url": "https://dz.kompass.com/c/sarl-pro-carton-emballage/dz273200/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 89 32",
+        "email": "sarlprocartonemballage@gmail.com",
+        "address": {
+          "streetAddress": "Zone Industrielle Desserte n°4",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "APE SYSTEMES",
+        "description": "Automatisme, protection électronique, caméra de surveillance, centrale d'alarme, anti incendie, anti intrusion, portes et rideaux automatiques, controle d'accés (pointage électronique...) télé affichage, système de sonorisation (salle de conférance...)",
+        "url": "https://dz.kompass.com/c/ape-systemes/dz250811/",
+        "logo": "https://prokcssmedia.blob.core.windows.net/sys-master-images/hd1/h48/9126361759774/logo-png",
+        "phone": "+213 775 62 75 75",
+        "email": "ape.systemes@hotmail.com",
+        "address": {
+          "streetAddress": "8, rue Ben Hammadi local n°2 bel air",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Bureau d'Etude de Recherche & d'Engineering Général,Spa",
+        "description": "-Etudes d'engineering -Assistance à maîtrise d'ouvrages -Ordonnancement pilotage coordination(OPC) -Habitat, équipements, routes et hydraulique. -Assainissement, urbanisme et aménagement. -Suivi et contrôle des projets.",
+        "url": "https://dz.kompass.com/c/bureau-d-etude-de-recherche-d-engineering-general-spa/dz266364/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 22 15 40",
+        "email": "tlemcen@bereg.dz",
+        "address": {
+          "streetAddress": "Cité Iben Badis bt B1 n°1 Imama",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Ets BENBLAL",
+        "description": "-Disribution de véhicules et service aprés vente -Agent agréé FALCON MOTORS",
+        "url": "https://dz.kompass.com/c/ets-benblal/dz250990/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 26 23 91",
+        "email": "ghouti2000@yahoo.fr",
+        "address": {
+          "streetAddress": "Route nationale  n°22 Foubourgh Kiffane les Dalias",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "NALTIS Communication",
+        "description": "-Identité visuelle: Logotype, charte graphique, slogan, concept publicitaire, plan de communication, conseil en communication... -Multimédia: Présentation multimédia d'entreprise, catalogue produits, logiciels, impression labels et pressage sur différents supports (CDs, DVDs...) -Site Web: Site vitrines, catalogue en ligne, site dynamiques, hébergement, statistiques d'accès, animation, développement de sites web... -Affichage et brochures: Plaquettes commerciales, porte-documents, dépliants, evènementiel, affichage urbain...",
+        "url": "https://dz.kompass.com/c/naltis-communication/dz247678/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 41 34 84",
+        "email": "contact@naltis.com",
+        "address": {
+          "streetAddress": "4, boulevard Derrar Abderrahmane",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.naltis.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Maxi Bazar Meriem, Ets ZAHOUANI",
+        "description": null,
+        "url": "https://dz.kompass.com/c/maxi-bazar-meriem-ets-zahouani/dz248991/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 661 22 12 56",
+        "email": "zehouanidjamel@hotmail.fr",
+        "address": {
+          "streetAddress": "13F, Cité El Wouroud",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Articles en bois pour la maison",
+          "Articles en caoutchouc pour la maison",
+          "Articles en plastique pour usages domestiques",
+          "Ustensiles de cuisine en plastique",
+          "Ustensiles de table et de cuisine en métal",
+          "Articles en métal à usage ménager"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "LOTUS PHARM,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/lotus-pharm-sarl/dz265614/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 550 92 19 51",
+        "email": "saffeclotus@gmail.com",
+        "address": {
+          "streetAddress": "Route Amieur Ozidane i lot n°1 section 53 Chetouane Telemcen",
+          "addressLocality": "Amieur",
+          "postalCode": "13185",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Articles textiles pour usages médicaux et chirurgicaux",
+          "Produits pour les soins du visage",
+          "Produits d'hygiène intime féminine",
+          "Articles d'hygiène pour bébés",
+          "Importateurs et exportateurs"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "KBLINE,Eurl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/kbline-eurl/dz280131/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 551 62 23 97",
+        "email": "kbline.import.export@gmail.com",
+        "address": {
+          "streetAddress": "Local 3 tranche 79 plan particulier dit lotissement",
+          "addressLocality": "Ain Fezza",
+          "postalCode": "13165",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Conseil et services à l'export",
+          "Activités auxiliaires de commerce",
+          "Importateurs et exportateurs"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "ALLIANCE Assurances,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/alliance-assurances-spa/dz257116/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 26 48 57",
+        "email": null,
+        "address": {
+          "streetAddress": "1, rue Hansali Sayah Miloud",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Compagnies d'assurances-vie",
+          "Compagnies générales d'assurances",
+          "Caisses d'assurances maladie"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Confiserie FILLAOUCENE",
+        "description": null,
+        "url": "https://dz.kompass.com/c/confiserie-fillaoucene/dz166205/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 35 82 14",
+        "email": null,
+        "address": {
+          "addressLocality": "Nedroma",
+          "postalCode": "13600",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "35.0128440856934",
+          "longitude": "-1.74086594581604"
+        },
+        "activities": [
+          "Confiseries de sucre",
+          "Produits pharmaceutiques (autres)"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "EL KAMLA",
+        "description": null,
+        "url": "https://dz.kompass.com/c/el-kamla/dz280041/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 797 53 73 31",
+        "email": "kacemcyb@gmail.com",
+        "address": {
+          "streetAddress": "Al akid Lotfi,Maghnia,Tlemcen",
+          "addressLocality": "Maghnia",
+          "postalCode": "13300",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Fruits à pépins",
+          "Huiles alimentaires"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "MERADJA COLIFEL,Eurl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/meradja-colifel-eurl/dz280052/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 43 61 68",
+        "email": "contact@meradja.com",
+        "address": {
+          "streetAddress": "Zone industrielle n°17, Remchi",
+          "addressLocality": "Remchi",
+          "postalCode": "13500",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Fruits à noyaux",
+          "Légumes par type de conditionnement",
+          "Huiles alimentaires",
+          "Fruits et légumes préparés et en conserve issus de l'agriculture biologique"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.meradja.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "AGRO INDUSTRIE (Groupe Kharbouche),Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/agro-industrie-groupe-kharbouche-spa/dz280039/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 87 56",
+        "email": "contact@groupekherbouche.com",
+        "address": {
+          "streetAddress": "Zone industrielle Chetouane,Dessert 03, Bloc03",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Tubes et tuyaux flexibles en caoutchouc par usage",
+          "Profilés plastiques",
+          "Tubes, tuyaux, gaines et canalisations en acier",
+          "Tubes, tuyaux, gaines et canalisations en métaux ferreux par usage",
+          "Matériel d'essais pour l'agronomie",
+          "Outillage agricole et horticole",
+          "Décolletage",
+          "Commerce de gros"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "AMARIUS Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/amarius-sarl/dz279971/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 40 91 73 44",
+        "email": null,
+        "address": {
+          "streetAddress": "Z.I Khemisti ,Lot20 Ain el Hadjar",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Graines comestibles",
+          "Agents texturants naturels et artificiels pour aliments et boissons"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "MELIANI TARIK",
+        "description": null,
+        "url": "https://dz.kompass.com/c/meliani-tarik/dz279958/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 771 53 53 50",
+        "email": null,
+        "address": {
+          "streetAddress": "Cité el feth rue 260 n°22",
+          "addressLocality": "Maghnia",
+          "postalCode": "13300",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Fruits tropicaux et subtropicaux",
+          "Fruits séchés",
+          "Importateurs et exportateurs"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "MAKA FAOUZI EXPORT,Eurl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/maka-faouzi-export-eurl/dz279952/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 37 77 71 01",
+        "email": "canalge2016@hotmail.com",
+        "address": {
+          "streetAddress": "Rue de la paix Sedrata",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Fruits tropicaux et subtropicaux",
+          "Fruits séchés",
+          "Importateurs et exportateurs"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "AGMA SHIPPING Algerian Global Maritime Assisstanc",
+        "description": null,
+        "url": "https://dz.kompass.com/c/agma-shipping-algerian-global-maritime-assisstanc/dz279912/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 21 59 93",
+        "email": "agmashipping.dz@gmail.com",
+        "address": {
+          "streetAddress": "Hai Ennour Mansourah Telemcen",
+          "addressLocality": "Mansourah",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Transport maritime de passagers et de fret",
+          "Agents d'expédition et de transport",
+          "Experts en assurances"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www agmashipping.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": [
+        {
+          "name": "AGMA",
+          "description": " Services d'inspection de bateaux  Expertise des cargaisons maritimes  Gestion d'entreprises et d'équipements  Gestion de navires marchands  Conseil en gestion de navires  Experts en assurances  Experts en récupérations maritimes",
+          "image": null,
+          "category": "Services financiers et assurances>Experts en assurances",
+          "price": null
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "ETBH BOUABDALLAH SMAIN",
+        "description": null,
+        "url": "https://dz.kompass.com/c/etbh-bouabdallah-smain/dz272517/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 38 14",
+        "email": "granitec.bouabdallah@gmail.com",
+        "address": {
+          "streetAddress": "N°07 fg fedden sebaa",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Travaux auxiliaires pour les travaux publics",
+          "Entreprises de bâtiment",
+          "Travaux auxiliaires pour le bâtiment"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "SOLTANE Peintures",
+        "description": null,
+        "url": "https://dz.kompass.com/c/soltane-peintures/dz270684/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 43 13 60",
+        "email": null,
+        "address": {
+          "streetAddress": "Rue des Frères Ayad (ex Souk El Fellah)",
+          "addressLocality": "Remchi",
+          "postalCode": "13500",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Peintures",
+          "Peintures par usage",
+          "Vernis et laques par usage",
+          "Matériel pour la peinture, le vernissage et le laquage des métaux"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "PACKFILM PACKAGING,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/packfilm-packaging-sarl/dz270466/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 56 70 52",
+        "email": "packfilm.dz@gmail.com",
+        "address": {
+          "streetAddress": "Zone Industrielle Desserte n°06",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Feuilles et films plastiques",
+          "Articles en plastique pour l'agriculture et l'horticulture"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.packfilm-dz.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "POLYBERR,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/polyberr-sarl/dz268904/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 770 33 60 62",
+        "email": "polyberr@gmail.com",
+        "address": {
+          "streetAddress": "ZI désert n°05 lot 42",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Accessoires et composants de chaussures"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "FAG BENYAHIA,EURL",
+        "description": null,
+        "url": "https://dz.kompass.com/c/fag-benyahia-eurl/dz269734/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 557 92 68 43",
+        "email": "contact@fagbenyahia.com",
+        "address": {
+          "streetAddress": "Zone d'Activités Industrielles Khemisti",
+          "addressLocality": "Hennaya",
+          "postalCode": "13550",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Marbres et travertin",
+          "Produits en pierre",
+          "Travaux de carrelage et de pavage"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.fagbenyahia.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "ATLAS MATELAS,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/atlas-matelas-sarl/dz267024/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 56 70 43",
+        "email": "samatlas@hotmail.com",
+        "address": {
+          "streetAddress": "Zone Industrielle Desserte n°6",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Linge de lit",
+          "Matelas"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.atlasmatelas.dz"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "SARL ASHARQUE",
+        "description": null,
+        "url": "https://dz.kompass.com/c/sarl-asharque/dz272038/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 558 74 57 92",
+        "email": "sarltchico22@gmail.com",
+        "address": {
+          "streetAddress": "Cité 260 Logt, BTR Lot 29 Sidi Djilali",
+          "addressLocality": "Sidi Djillali",
+          "postalCode": "13260",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Sables",
+          "Matériel pour la préparation des moules et noyaux de fonderie",
+          "Machines spéciales pour le travail des métaux, sans enlèvement",
+          "Matériel d'essais pour les métaux",
+          "Fabrication de moules et de modèles de fonderie",
+          "Fonderies",
+          "Tournage et fraisage des pièces métalliques",
+          "Usinage des plastiques",
+          "Maintenance et réparation d'équipements industriels",
+          "Véhicules pour usages spéciaux",
+          "Travaux auxiliaires pour les travaux publics",
+          "Commerce de gros",
+          "Location de matériel pour le génie civil, le bâtiment et les travaux publics"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.sarl-asharque.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "GRANI MARBRE Ets BOUABDELLAH",
+        "description": null,
+        "url": "https://dz.kompass.com/c/grani-marbre-ets-bouabdellah/dz165498/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 20 32 80",
+        "email": "bouabdellah.granit.marbre@gmail.com",
+        "address": {
+          "streetAddress": "01, boulevard Derrar Abderrahmane Kiffane",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Roches plutoniques",
+          "Marbres et travertin",
+          "Arts de la table en céramique",
+          "Equipements sanitaires et accessoires pour salles de bains en céramique"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "BUREAU OFFICE,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/bureau-office-sarl/dz250763/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 21 50 22",
+        "email": "bureauoffice.sarl@gmail.com",
+        "address": {
+          "streetAddress": "34, cité des Roses Imama",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Mobilier de cuisine",
+          "Mobilier de bureau"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "LADJALI Abdelmadjid",
+        "description": null,
+        "url": "https://dz.kompass.com/c/ladjali-abdelmadjid/dz025822/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 772 86 71 88",
+        "email": "ladjali.abdelmadjid@gmail.com",
+        "address": {
+          "streetAddress": "16, Cité Foubourg Kiffane",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Travaux d'irrigation, d'aménagement de puits et de sources, et d'approvisionnement d'eau"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "RENADIAL",
+        "description": null,
+        "url": "https://dz.kompass.com/c/renadial/dz254269/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 60 02",
+        "email": null,
+        "address": {
+          "streetAddress": "Lot 217,cité Dahlias Kiffan",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.renadial.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "MEDI MOTORS Tlemcen,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/medi-motors-tlemcen-sarl/dz233984/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 31 44",
+        "email": "midi_motors@hotmail.com",
+        "address": {
+          "streetAddress": "ZI Desserte n°8",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.9212989807129",
+          "longitude": "-1.29512000083923"
+        },
+        "activities": [
+          "Commerce de détail"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.hyundai-motors.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Société Algérienne de l'Aluminium,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/societe-algerienne-de-l-aluminium-spa/dz200765/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 32 37 83",
+        "email": "algal@wissal.dz",
+        "address": {
+          "streetAddress": "Route de Nedroma",
+          "addressLocality": "Ghazaouet",
+          "postalCode": "13400",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "35.1002044677734",
+          "longitude": "-1.85192000865936"
+        },
+        "activities": [
+          "Profilés en acier et acier laminé",
+          "Semi-produits en aluminium et ses alliages",
+          "Eléments non structuraux en métal pour murs intérieurs et façades",
+          "Portes en métal",
+          "Fenêtres en métal",
+          "Châssis pour portes et fenêtres en métal",
+          "Stores, volets, rideaux et jalousies en métal",
+          "Quincaillerie de pose en métal pour barrières, portes, fenêtre, lucarnes, volets, jalousies et stores"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.metanof.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Minoterie SAKINA,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/minoterie-sakina-sarl/dz218534/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 31 65 26",
+        "email": null,
+        "address": {
+          "streetAddress": "Zone Industrielle de Maghnia",
+          "addressLocality": "Maghnia",
+          "postalCode": "13300",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8555297851563",
+          "longitude": "-1.72838997840881"
+        },
+        "activities": [
+          "Farines et semoules de céréales",
+          "Riz préparé",
+          "Importateurs et exportateurs"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "TRANS CANAL OUEST,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/trans-canal-ouest-spa/dz014935/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 40 90 20 35",
+        "email": "transcanaldgouest@gmail.com",
+        "address": {
+          "streetAddress": "Oued Mouillah par Chebikia, Zone Industrielle",
+          "addressLocality": "Maghnia",
+          "postalCode": "13300",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8555297851563",
+          "longitude": "-1.72838997840881"
+        },
+        "activities": [
+          "Cailloux et graviers",
+          "Produits en béton",
+          "Produits réfractaires façonnés"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "axa assurance",
+        "description": "assurances toutes branche assurance dommage : automobile , MRH , MRP, risque divers ..assurance vie : assurance voyage , assurance emprunteur, complémentaire santé",
+        "url": "https://dz.kompass.com/c/el-hassar-lotfi/dz266945/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "43416161",
+        "email": "aga.71315@axa.dz",
+        "address": {
+          "streetAddress": "23 BD PASTEUR",
+          "addressLocality": "TLEMCEN",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Compagnies d'assurances-vie",
+          "Compagnies générales d'assurances",
+          "Caisses d'assurances maladie"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "H2M Design",
+        "description": "création de tout modèle de maquette ( logo, étiquette, carte visite, calendrier, emballage, panneau publicitaire, dépliant, etc...)",
+        "url": "https://dz.kompass.com/c/h2m-design/dz264373/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "0776051126",
+        "email": "hichem370z@gmail.com",
+        "address": {
+          "streetAddress": "cite 200 logts",
+          "addressLocality": "tlemcen",
+          "postalCode": "13062",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Composition et photocomposition",
+          "Logiciels de conception graphique et traitement d'image"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "https://h2mdesign.webs.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "NIGAPHARM,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/nigapharm-sarl/dz022387/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 85 66",
+        "email": "nigapharmdz@gmail.com",
+        "address": {
+          "streetAddress": "Lot n°81, desserte 5 Zone Industrielle",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.9212989807129",
+          "longitude": "-1.29512000083923"
+        },
+        "activities": [
+          "Produits pharmaceutiques pour  le système cérébral et nerveux et l'anesthésie",
+          "Produits pharmaceutiques pour la dermatologie",
+          "Produits antiseptiques et antibactériens",
+          "Produits pharmaceutiques (autres)",
+          "Produits parapharmaceutiques",
+          "Matériel et instruments médicaux",
+          "Articles textiles pour usages médicaux et chirurgicaux"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Les Fils Djilali RAHMOUN,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/les-fils-djilali-rahmoun-sarl/dz008755/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 65 21",
+        "email": "sarlexquise@yahoo.fr",
+        "address": {
+          "streetAddress": "Zone Industrielle, desserte n°5",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.9212989807129",
+          "longitude": "-1.29512000083923"
+        },
+        "activities": [
+          "Jus de fruits",
+          "Sirops",
+          "Sodas, colas et boissons rafraîchissantes sans alcool (BRSA)",
+          "Eaux"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.exquise1928.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Société Générale d'Etude & de Réalisation Hydraulique de la Wilaya de Tlemcen,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/societe-generale-d-etude-de-realisation-hydraulique-de-la-wilaya/dz008753/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 22 82 46",
+        "email": "sogerhwit@yahoo.fr",
+        "address": {
+          "streetAddress": "Zone d'Activité Abou Tachefine.         Tlemcen",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Pièces moulées en fonte par usage",
+          "Raccords en métal pour tubes et tuyaux",
+          "Brides en métal pour tubes et tuyaux",
+          "Produits en béton",
+          "Constructions et éléments de construction préfabriqués en béton",
+          "Matériel hydraulique",
+          "Soupapes et vannes hydrauliques",
+          "Matériel de forage pour puits d'eau",
+          "Outillage pour le bâtiment",
+          "Matériel de drainage",
+          "Travaux de terrassement, d'excavation, de fondation et construction de tunnels",
+          "Travaux fluviaux, portuaires et hydroélectriques",
+          "Travaux d'irrigation, d'aménagement de puits et de sources, et d'approvisionnement d'eau",
+          "Entreprises de bâtiment",
+          "Travaux d'installation de tuyauterie et de canalisations pour le bâtiment",
+          "Location de matériel pour le génie civil, le bâtiment et les travaux publics"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.sogerhwit.net"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "FABIPLAST,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/fabiplast-sarl/dz008954/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 89 17",
+        "email": "fabiplastsarl@gmail.com",
+        "address": {
+          "streetAddress": "Zone Industrielle Chetouane Desserte n°6",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Emballages en plastique",
+          "Boîtes et caisses en plastique",
+          "Bouteilles, flacons et tubes en pastique",
+          "Articles en plastique pour usages domestiques",
+          "Ustensiles de cuisine en plastique",
+          "Arts de la table en plastique",
+          "Emballages en plastique pour l'industrie alimentaire et des boissons",
+          "Articles en plastique pour les industries chimique, pharmaceutique et cosmétique",
+          "Seaux et pelles à usage ménager",
+          "Ustensiles de table et de cuisine en métal",
+          "Articles en métal à usage ménager"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.fabiplast.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "ZENATA VOYAGES,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/zenata-voyages-sarl/dz008878/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 43 72 20",
+        "email": "zenatavoyages@hotmail.com",
+        "address": {
+          "streetAddress": "16, rue Mohamed Khemisti",
+          "addressLocality": "Remchi",
+          "postalCode": "13500",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.9967193603516",
+          "longitude": "-1.384889960289"
+        },
+        "activities": [
+          "Services de réservations hôtelières",
+          "Agences de voyages",
+          "Organisation de salons, foires et conférences"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Entreprise de Gestion Touristique de Tlemcen,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/entreprise-de-gestion-touristique-de-tlemcen-spa/dz008815/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 21 78 14",
+        "email": "contact@egtt-dz.com",
+        "address": {
+          "streetAddress": "Résidence Tagrart Bloc A1 Imama",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Gestion d'hôtels, de restaurants et de bars",
+          "Administrations publiques"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.egtt-dz.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Conception & Réalisation Industrielles de Matériaux & Accessoires,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/conception-realisation-industrielles-de-materiaux-accessoires-sarl/dz008727/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 33 44",
+        "email": "contact.crima@crima-dz.com",
+        "address": {
+          "streetAddress": "ZI,route de Chetouane voie 6 lot 29",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.9212989807129",
+          "longitude": "-1.29512000083923"
+        },
+        "activities": [
+          "Pièces techniques en caoutchouc par industrie",
+          "Pièces moulées en caoutchouc",
+          "Joints et rondelles en caoutchouc",
+          "Joints et garnitures en plastique",
+          "Manches et poignées en plastique",
+          "Emballages en plastique",
+          "Articles en plastique pour usages domestiques",
+          "Arts de la table en plastique",
+          "Articles en plastique pour infrastructures de transport",
+          "Articles en plastique pour l'industrie automobile",
+          "Seaux et pelles à usage ménager",
+          "Poubelles et corbeilles",
+          "Ustensiles de table et de cuisine en métal",
+          "Articles en métal à usage ménager",
+          "Stylos et pièces pour stylos",
+          "Fabrication de moules et de modèles pour l'industrie",
+          "Moulage de pièces métalliques",
+          "Formage des poudres métalliques",
+          "Usinage des pièces métalliques",
+          "Fabrication de moules et modèles pour caoutchouc et plastiques",
+          "Traitement du caoutchouc",
+          "Usinage du caoutchouc",
+          "Traitement des thermoplastiques",
+          "Equipements de sécurité pour véhicules automobiles",
+          "Equipements de régulation de la circulation routière",
+          "Pièces pour motocycles"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.crima-dz.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Isolation & Emballage,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/isolation-emballage-sarl/dz008708/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "92.20.65",
+        "email": "isobaldz@gmail.com",
+        "address": {
+          "streetAddress": "Route de Saf Saf",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.9212989807129",
+          "longitude": "-1.29512000083923"
+        },
+        "activities": [
+          "Plaques et panneaux plastiques",
+          "Feuilles et films plastiques",
+          "Stratifiés plastiques"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "DIVINDUS MNM Unité Nedromeubles,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/divindus-mnm-unite-nedromeubles-spa/dz008255/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 661 48 00 13",
+        "email": "dg.nedromeubles@gmail.com",
+        "address": {
+          "streetAddress": "Route Mohamed Boudiaf",
+          "addressLocality": "Nedroma",
+          "postalCode": "13600",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "35.0128440856934",
+          "longitude": "-1.74086594581604"
+        },
+        "activities": [
+          "Mobilier pour la maison",
+          "Tables et bureaux pour la maison",
+          "Sièges pour la maison",
+          "Lits pour la maison et accessoires",
+          "Armoires et placards pour la maison",
+          "Bibliothèques et meubles pour télévision et matériel HI-FI",
+          "Mobilier de cuisine",
+          "Mobilier pour enfants",
+          "Mobilier de bureau",
+          "Mobilier de rangement pour bureaux",
+          "Mobilier pour salles de réunion",
+          "Mobilier pour bibliothèques, archives et musées",
+          "Mobilier pour l'hôtellerie restauration",
+          "Mobilier pour collectivités",
+          "Mobilier capitonné",
+          "Mousses plastiques",
+          "Eponges et tampons à récurer",
+          "Travaux de décoration et d'aménagement intérieurs"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.nedromeubles.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Fabrication de Matériel de Pêche,Sarl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/fabrication-de-materiel-de-peche-sarl/dz008092/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 75 15",
+        "email": "famapsarl@yahoo.fr",
+        "address": {
+          "streetAddress": "Zone Industrielle de Chetouane Desserte n°5",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Filés et fils retors de fibres chimiques",
+          "Ficelles",
+          "Cordages et cordes",
+          "Filets textiles"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Editions Ibn Khaldoun,Eurl",
+        "description": null,
+        "url": "https://dz.kompass.com/c/editions-ibn-khaldoun-eurl/dz008010/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 12 02",
+        "email": "editions.ibn.khaldoun@gmail.com",
+        "address": {
+          "streetAddress": "13, avenue Colonel Lotfi",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Articles de papeterie",
+          "Articles de carterie",
+          "Agendas et calendriers",
+          "Création graphique",
+          "Impression à plat",
+          "Impression sur supports spécifiques",
+          "Travaux de post-presse",
+          "Maisons d'édition",
+          "Editions d'art, autres que livres",
+          "Objets publicitaires et cadeaux d'entreprise",
+          "Accessoires et consommables informatiques",
+          "Studios et laboratoires de photographie",
+          "Commerce de détail"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Agro Industrie Algérie,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/agro-industrie-algerie-spa/dz014907/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 60 50",
+        "email": "fabrication@groupekherbouche.com",
+        "address": {
+          "streetAddress": "ZI Chetouane Desserte n°3 lot 7",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.9212989807129",
+          "longitude": "-1.29512000083923"
+        },
+        "activities": [
+          "Tubes, tuyaux, gaines et canalisations en métaux ferreux",
+          "Raccords en métal pour tubes et tuyaux",
+          "Pompes d'incendie",
+          "Produits à base de charbon",
+          "Pompes pour moteurs à combustion interne",
+          "Pompes hydrauliques",
+          "Pompes par usage",
+          "Pompes (autres)",
+          "Composants et accessoires pour pompes",
+          "Soupapes et vannes hydrauliques",
+          "Pièces pour matériel hydraulique et oléohydraulique",
+          "Groupes électrogènes",
+          "Tracteurs agricoles",
+          "Matériel agricole d'épandage",
+          "Matériel d'irrigation et d'arrosage",
+          "Matériel de protection des cultures",
+          "Matériel de transport agricole",
+          "Pièces et accessoires pour matériel agricole",
+          "Filtres pour l'industrie chimique",
+          "Filtres pour l'industrie chimique par usage",
+          "Matériel de pompage d'hydrocarbures",
+          "Tracteurs industriels",
+          "Matériel de traitement de l'eau, des eaux usées domestiques et des effluents industriels",
+          "Importateurs et exportateurs"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Divindus Trading Company,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/divindus-trading-company-spa/dz178234/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 40 90 08 46",
+        "email": null,
+        "address": {
+          "streetAddress": "Zone Industrielle Bab Khroufa",
+          "addressLocality": "Ghazaouet",
+          "postalCode": "13400",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "35.1002044677734",
+          "longitude": "-1.85192000865936"
+        },
+        "activities": [
+          "Grumes de bois de zone tempérée",
+          "Grumes de bois par usage",
+          "Bois de sciage",
+          "Bois de sciage par usage",
+          "Panneaux dérivés bois",
+          "Panneaux de bois par usage",
+          "Sols en bois. Parquets",
+          "Barres en acier et acier laminé",
+          "Produits en pierres artificielles et reconstituées",
+          "Ciments",
+          "Constructions et éléments de construction préfabriqués en béton",
+          "Verres plats",
+          "Décoration du verre",
+          "Arts de la table en céramique"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Entreprise Nationale des Granulats,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/entreprise-nationale-des-granulats-spa/dz025517/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 660 40 32 22",
+        "email": "sidiabdelli@eng.dz",
+        "address": {
+          "streetAddress": "Sidi Abdelli",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Cailloux et graviers",
+          "Produits en pierre"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.eng.dz"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Banque de l'Agriculture & du Développement Rural,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/banque-de-l-agriculture-du-developpement-rural-spa/dz178200/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 26 49 43",
+        "email": "gre-badr-tlemcen@yahoo.fr",
+        "address": {
+          "streetAddress": "01, rue de la Paix",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Banques commerciales",
+          "Banques d'affaires et d'investissement",
+          "Services bancaires"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.badr-bank.net"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Contoire Maghreb Unité Maiserie de la TAFNA,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/contoire-maghreb-unite-maiserie-de-la-tafna-spa/dz014954/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 50 22 22",
+        "email": "am@groupe-metidji.com",
+        "address": {
+          "streetAddress": "Zone Industrielle, route de Sebdou",
+          "addressLocality": "Maghnia",
+          "postalCode": "13300",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8555297851563",
+          "longitude": "-1.72838997840881"
+        },
+        "activities": [
+          "Farines et semoules de céréales",
+          "Huiles alimentaires",
+          "Fourrages et céréales pour animaux",
+          "Farines pour animaux",
+          "Agents texturants naturels et artificiels pour aliments et boissons",
+          "Amidons"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.groupe-metidji.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Caisse Régionale de Mutualité Agricole",
+        "description": null,
+        "url": "https://dz.kompass.com/c/caisse-regionale-de-mutualite-agricole/dz018623/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 41 72 63",
+        "email": "tlemcen_crma@yahoo.fr",
+        "address": {
+          "streetAddress": "Boulevard de l'ALN",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Banques commerciales",
+          "Services bancaires",
+          "Compagnies d'assurances-vie",
+          "Compagnies générales d'assurances",
+          "Caisses d'assurances maladie",
+          "Compagnies d'assurance-crédit"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Industrie Algérienne de la Téléphonie,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/industrie-algerienne-de-la-telephonie-spa/dz214777/",
+        "logo": "https://prokcssmedia.blob.core.windows.net/sys-master-root/hc9/hf8/8816076357662/DZ214777.jpg",
+        "phone": "+213 43 27 32 13",
+        "email": "directiongenerale@inatel.dz",
+        "address": {
+          "streetAddress": "ZI, route de Chetouane",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Systèmes de détection et d'alarmes incendie",
+          "Systèmes anti-vols",
+          "Systèmes de contrôle d'accès et de surveillance",
+          "Matériel de géolocalisation",
+          "Systèmes de télécommunications",
+          "Matériel de commutation de réseaux",
+          "Matériel pour réseaux téléphoniques",
+          "Téléphones",
+          "Accessoires de téléphonie",
+          "Interphones",
+          "Installation et maintenance du matériel pour l'industrie de l'électronique",
+          "Travaux d'installation de télécommunications",
+          "Travaux d'installation de systèmes de protection contre l'incendie et de sécurité. Travaux de serrurerie",
+          "Services de télécommunications",
+          "Services après-vente (SAV)",
+          "Importateurs et exportateurs",
+          "Conseil en ingénierie électronique et des télécommunications"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.inatel.dz"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Office National d'Appareillages & Accessoires pour Personnes Handicapés,EPIC",
+        "description": null,
+        "url": "https://dz.kompass.com/c/office-national-d-appareillages-accessoires-pour-personnes/dz166746/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 41 45 27",
+        "email": null,
+        "address": {
+          "streetAddress": "2, boulevard Mohamed V",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Chaussures orthopédiques",
+          "Prothèses médicales",
+          "Fauteuils roulants et leurs accessoires"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Chambre de l'Artisanat & des Métiers,EPIC",
+        "description": null,
+        "url": "https://dz.kompass.com/c/chambre-de-l-artisanat-des-metiers-epic/dz160266/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 33 08",
+        "email": null,
+        "address": {
+          "streetAddress": "El Mechouar",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Administrations publiques"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Société Nouvelle de la Céramiques Sanitaire de Ghazaouet,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/societe-nouvelle-de-la-ceramiques-sanitaire-de-ghazaouet-spa/dz162499/",
+        "logo": "https://prokcssmedia.blob.core.windows.net/sys-master-root/h06/ha4/8816075538462/DZ162499.jpg",
+        "phone": "+213 43 47 40 33",
+        "email": "ceramig.eco@gmail.com",
+        "address": {
+          "streetAddress": "El Akacha",
+          "addressLocality": "Ghazaouet",
+          "postalCode": "13400",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "35.1002044677734",
+          "longitude": "-1.85192000865936"
+        },
+        "activities": [
+          "Eviers de cuisine",
+          "Vasques, lavabos et lave-mains",
+          "Baignoires",
+          "Douches et receveurs",
+          "WC/Toilettes",
+          "Eléments et accessoires sanitaires et de salles de bains en métal",
+          "Equipements sanitaires et accessoires pour salles de bains en céramique",
+          "Produits en grès cérame",
+          "Travail de la céramique en sous-traitance"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Laiterie EL MANSOURAH,Spa",
+        "description": "Production de laits et dérivés: lait pasteurisé, lait de vache entier,crémé et partiellement écrémé,lait fermenté, yaourt, fromage frais, beurre fermier,crème de lait et cherbet.",
+        "url": "https://dz.kompass.com/c/laiterie-el-mansourah-spa/dz007950/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 22 71 91",
+        "email": "mansourahgiplait@gmail.com",
+        "address": {
+          "streetAddress": "Zone Semi Industrielle Aboutachefine",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": null,
+        "activities": [
+          "Laits",
+          "Crèmes",
+          "Beurres",
+          "Fromages",
+          "Yaourts"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Société Nouvelle de Carreaux  Céramique de Remchi,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/societe-nouvelle-de-carreaux-ceramique-de-remchi-spa/dz165429/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 554 50 96 93",
+        "email": "dgceramir@yahoo.fr",
+        "address": {
+          "streetAddress": "Route Nationale n°22 Sidi-Hacini",
+          "addressLocality": "Remchi",
+          "postalCode": "13500",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.9967193603516",
+          "longitude": "-1.384889960289"
+        },
+        "activities": [
+          "Produits pour le bâtiment en céramique et clinker",
+          "Carreaux céramiques",
+          "Produits en grès cérame",
+          "Travail de la céramique en sous-traitance"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Société Générale Maritime,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/societe-generale-maritime-spa/dz015758/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 47 21 28",
+        "email": null,
+        "address": {
+          "streetAddress": "1, route de 1er Novembre",
+          "addressLocality": "Ghazaouet",
+          "postalCode": "13400",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "35.1002044677734",
+          "longitude": "-1.85192000865936"
+        },
+        "activities": [
+          "Transport maritime de passagers et de fret",
+          "Arrimage et débardage de navires et assistance technique portuaire",
+          "Agents d'expédition et de transport",
+          "Services d'inspection et d'homologation des chargements",
+          "Activités auxiliaires de commerce",
+          "Conseil en ingénierie pour les infrastructures de transports et le trafic"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.gema-groupe.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Entreprise Nationale des Produits Miniers Non Ferreux & des Substances Utiles,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/entreprise-nationale-des-produits-miniers-non-ferreux-des-substances/dz014936/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 49 10 94",
+        "email": "enof13300@gmail.com",
+        "address": {
+          "streetAddress": "25, rue Gharouben",
+          "addressLocality": "Maghnia",
+          "postalCode": "13300",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8555297851563",
+          "longitude": "-1.72838997840881"
+        },
+        "activities": [
+          "Terres",
+          "Argiles et alumines",
+          "Composés du calcium",
+          "Travaux de prospection et d'extraction minières"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Station Thermale Hammam de BOUGHRARA,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/station-thermale-hammam-de-boughrara-spa/dz018303/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 53 91 77",
+        "email": "boughrara@egtt-dz.com",
+        "address": {
+          "streetAddress": "Route de Maghnia",
+          "addressLocality": "Hammam Boughrara",
+          "postalCode": "13320",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.9529495239258",
+          "longitude": "-1.61417996883392"
+        },
+        "activities": [
+          "Stations thermales et centres de remise en forme",
+          "Hôtels et motels"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Impressions Emballages Façonnages",
+        "description": null,
+        "url": "https://dz.kompass.com/c/impressions-emballages-faconnages/dz178444/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 26 74 36",
+        "email": "gravotimbre2006@yahoo.fr",
+        "address": {
+          "streetAddress": "Faubourg Kiffane Les Dahlias n°454",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Articles de papeterie",
+          "Etiquettes adhésives",
+          "Composition et photocomposition",
+          "Impression sur supports spécifiques",
+          "Services de photocopies"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Banque Extérieure d'Algérie,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/banque-exterieure-d-algerie-spa/dz028929/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 26 76 26",
+        "email": null,
+        "address": {
+          "streetAddress": "02,RUE DE L'INDÉPENDANCE ,EL MECHOIR TLEMCEN",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Banques commerciales",
+          "Banques d'affaires et d'investissement",
+          "Services bancaires",
+          "Bureaux de change"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.bea.dz"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "INFOPLUS,EURL",
+        "description": null,
+        "url": "https://dz.kompass.com/c/infoplus-eurl/dz167981/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 58 43 13",
+        "email": "bm_infoplus@yahoo.fr",
+        "address": {
+          "streetAddress": "11, boulevard Derrar Abderrahmane El Kiffane",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Services de photocopies",
+          "Reliure industrielle",
+          "Editeurs de matériel pédagogique pour l'enseignement des sciences et des techniques",
+          "Matériel pour réseaux téléphoniques",
+          "Photocopieurs",
+          "Machines à écrire et téléscripteurs",
+          "Serveurs informatiques",
+          "Ordinateurs personnels",
+          "Périphériques de saisie",
+          "Imprimantes",
+          "Secrétariat",
+          "Importateurs et exportateurs",
+          "Formation professionnelle en informatique, Internet et multimédia"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Agence de Wilaya de Gestion & de Régulation Foncière Urbaine de Tlemcen,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/agence-de-wilaya-de-gestion-de-regulation-fonciere-urbaine/dz014957/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 27 28 81",
+        "email": "afwt_tlemcen@hotmail.com",
+        "address": {
+          "streetAddress": "Zone Industrielle Desserte n°4",
+          "addressLocality": "Chetouane",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.9212989807129",
+          "longitude": "-1.29512000083923"
+        },
+        "activities": [
+          "Conseil immobilier",
+          "Services immobiliers et fonciers",
+          "Zones industrielles",
+          "Conseil en aménagement du territoire et urbanisme",
+          "Conseil en ingénierie du bâtiment et des travaux publics"
+        ],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Etablissement NEHARI Abdelkrim",
+        "description": "Commercialisation de matériels et d'équipements d'hygiène: *Moustique(insecticide). *Désinfection, dératisation et désherbage. -Vente tous produits phytosanitaires, d'hygiène publiques et quincaillerie. -Vente produits de traitement des eaux -Vente de matériels et produits de prévention des maladies à transmission hydrique. -Fabrication d'échelles métalliques, roulante (nacelle), échelle palmier, électrique, vidoir pour décharge publique, abri bac et vide fosse 3000L, 4000L, 5000L. -Machine nettoyante des plages -Matériel agricole -Motocyclisme -Concessionnaire FAMAG",
+        "url": "https://dz.kompass.com/c/etablissement-nehari-abdelkrim/dz173831/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 43 50 91",
+        "email": "neharihygien8@gmail.com",
+        "address": {
+          "streetAddress": "Rue Larbi Ben M'hidi, cité 224 logts (face tribunal)",
+          "addressLocality": "Remchi",
+          "postalCode": "13500",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.9967193603516",
+          "longitude": "-1.384889960289"
+        },
+        "activities": [],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Café BOULILA NEDROMA,EURL",
+        "description": "Torréfaction, mouture et conditionnement de produits alimentaires: café.",
+        "url": "https://dz.kompass.com/c/cafe-boulila-nedroma-eurl/dz172093/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 662 10 49 15",
+        "email": "nedrocafe@yahoo.fr",
+        "address": {
+          "streetAddress": "Route La Gare",
+          "addressLocality": "Nedroma",
+          "postalCode": "13600",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "35.0128440856934",
+          "longitude": "-1.74086594581604"
+        },
+        "activities": [],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "BATIFROID",
+        "description": "Fabrication des équipements frigorifiques collectifs et commercial: -Présentoirs frigorifiques horizontaux et verticaux -Armoires frigorifiques pour boucheries -Ensemble kit cafétéria -Chambres froides modulaires avec ou sans groupes de condensation -Aménagement de surfaces commerciales -Portes isothermes -Etagères -Fontaines réfrigérantes et refroidisseurs d'eau industrielle -Fabrication de fours de boulangeries et pâtisseries, et four à ventilation (étuve de croissanterie), tunnels de refroidissement avec convoyeurs, cuves refroidies pour le stockage et conservation de lait en ferme, refroidisseurs de liquides à usage industriel -Fabrication de panneaux publicitaires -Fabrication de rayonages métalique pour super marché: murale et centrale Offres/ Recherches Sous-Traitance/ Partenariat:_ -Offres de sous-traitance: Peinture Epoxy application par système électrostatique cuit au four -Recherches de partenariat: Cherche partenaires étrangers, nous disposons d'une machine d'injection de mousse polyuréthane pour la fabrication de réfrigérateurs ménagers et panneaux sandwichs.",
+        "url": "https://dz.kompass.com/c/batifroid/dz162172/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 38 96 62",
+        "email": "batifroid1@gmail.com",
+        "address": {
+          "streetAddress": "Siège Social:16, place En-nasr 1ère Tranche, Abou Tachfine",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [],
+        "social_media": [],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Comptoir de Commerce Multiple,Sarl",
+        "description": "*Fabrication et montage de groupes électrogènes et mat d'éclairage à gaz et diesel de marque SRL (GREEN POWER SYSTEMS) *Importation, commercialisation, installation et maintenance ascenseurs, monte charges, monte-malades, ascenseurs panoramiques, ascenseurs de chargement, ascenseurs hydrauliques et escaliers mécaniques de marque GEXX *Importation et vente de climatiseurs, installation et service après vente *Importation et distribution d'équipements industriels, de bâtiments et de travaux publics -Marteaux piqueurs à air comprimé,Brise-béton à air comprimé,Pompes à béton de marque PASHA , -Bétonnières de marque UMACOM -Compacteurs pneumatiques de chantier -Compacteurs cylindriques(rouleaux vibreurs) -Plaques vibrantes,vibreurs de béton, dames sauteuses. -Tapis convoyeurs,bandes transporteuses, compresseurs à vis chantier. -Importation et distribution de machine outil pour menuiserie aluminium -Equipements de nettoyage voiries,balayeuses et auto-laveuses mécaniques et thermiques de marque RCM. -Jeux d'aiguillage en barre de 02 mètres. -Jeux d'aiguillage en rouleaux de 20 mètres *Distribution et vente d'outillages à main,de marque BETA -Boîte à outils,clés de serrage,clés dynamométriques Clés males,compositions d'outils,douilles,embouts de vissage,extracteurs,levage,martellerie/frappe, Mesurage/métrologie,multiplicateurs de couple, Perçage/filetage,pinces,plateaux thermoformés, Pneumatique,sciage/coupe,servantes mobiles d'atelier, tournevis, *Distribution et vente d'outillages professionnels électroportatif de marque BOSCH et MAKITA -Outillage électroportatif (meuleuses d'angle, perceuses à percussion, scies circulaires, tronçonneuses à essence, marteaux combinés, défonceuses, marteaux perforateurs, multifonctions, burineurs, rabots, scie à table, scies à onglet radiale, scies à rubans, ponceuses vibrantes, ponceuses à excentriques, tronçonneuses à métaux, cisailles, grignoteuse, rainureuses à maçonnerie, pistolet thermocolleur, unité de trépanage/perçage, postes à souder, touret à meuler et découpeuses à disque -Débroussailleuses, tarières atomiseurs, coupes haie. Tondeuses à gazon, tracteurs à gazon, Broyeurs, treuils électriques, élévateurs électriques *Etudes, installation d'équipements de filtration, chauffage, régénération, ventilation pour piscines de collectivités et privées *Fourniture et pose d'équipements de piscines: pompes, filtres, vannes, skimmers, bouches de refoulement, grilles de goulottes, équipements, transformateurs d'électricité, échelles, plongeoirs, balais, tuyauterie, câbles et boîtes de dérivation et armoires électriques... *Fourniture de produits pour le traitement d'eau de piscine: -Chlore MULTIPLEX Granulé,chlore GR 200 Granulé, Chlore CHOC,ALGICIDE,ANTI-ALGUES, *Importation et distribution de tous les produits de quincaillerie et de matériaux de construction: Peintures, colles, pinceaux et balais, cordes, abrasifs, électrodes, produits électriques rubans adhésifs, instruments de mesure, matériaux de plomberie, robinetterie, serrures, poignets, crémones, paumelles , verrous, articles d'atelier *Commercialisation de matériel de gerbage et de manutention: -Chariots élévateurs à fourches et autres accessoires de manutention -Chariots élévateurs électriques 1,6T et 1,8T -Chariots élévateurs thermiques(Diesel): 3T, 4T, 7T, 10T, 12T -Transpalettes à main 2000 kgs, transpalettes électriques. *Commercialisation de chariots élévateurs de gros tonnage *Représentant exclusive plus Produits N NARGESA: -Poinçonneuse Hydraulique,MX700 -Cintreuse à Tubes et Profilés,MC650 -Machine à Forger à Chaud,NF70 -Machine à Forger en Chaud,PC16 -Torsadeuse de Forge,MT150A,MT150R -FOURS de Forge,H1,H2,H4 -Cisailles Hydrauliques,C2006,C3006 -Marteaux-Pilon,MP40,MP50,MP60 -Presses Plieuses Hydrauliques,MP1400CNC,MP2003CNC, MP3003CNC *Représentant exclusive MSM Produits: -Tours et Poteaux -Equipements pour Phares -Bouées -Lanternes Marines à Leds -Balise Tournantes -Feux Autonomes à leds -Feux de direction et de Guidage",
+        "url": "https://dz.kompass.com/c/comptoir-de-commerce-multiple-sarl/dz022495/",
+        "logo": "https://prokcssmedia.blob.core.windows.net/sys-master-root/h01/h92/8816072785950/DZ022495.jpg",
+        "phone": "+213 43 26 31 55",
+        "email": "cocomsarl@hotmail.com",
+        "address": {
+          "streetAddress": "5, rue El Hartoun, la Pépinière",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Pièces techniques en caoutchouc par industrie",
+          "Matériel de chantier en plastique",
+          "Produits chimiques pour le traitement des eaux",
+          "Pigments synthétiques",
+          "Adhésifs et colles synthétiques",
+          "Produits à base de bitume, d'asphalte et de goudron",
+          "Echafaudages et échelles en métal",
+          "Boîtes et caisses en métal",
+          "Charnières en métal",
+          "Tournevis, clés et outillages similaires",
+          "Limes, râpes et outillages similaires",
+          "Outillage pour la coupe, le tronçonnage et le sciage",
+          "Quincaillerie pour l'ameublement",
+          "Ustensiles de table et de cuisine en métal",
+          "Serrures et cadenas",
+          "Arts de la table en céramique",
+          "Pompes pour moteurs à combustion interne",
+          "Pompes par usage",
+          "Compresseurs par usage",
+          "Groupes compresseurs d'air",
+          "Chaudières par usage",
+          "Radiateurs",
+          "Echangeurs de chaleur par usage",
+          "Matériel industriel de chauffage électrique par usage",
+          "Radiateurs électriques pour la maison",
+          "Installations de ventilation et de climatisation",
+          "Climatiseurs",
+          "Matériel pour le brasage",
+          "Machines-outils à fonctions multiples pour les métaux",
+          "Groupes électrogènes",
+          "Bobines électriques",
+          "Accessoires pour câbles et fils de lignes électriques",
+          "Fusibles",
+          "Disjoncteurs",
+          "Fiches et prises électriques",
+          "Fils électriques isolés",
+          "Câbles électriques isolés",
+          "Composants et accessoires pour luminaires électriques",
+          "Outils électriques de coupe",
+          "Outils électriques de frappe",
+          "Outils électriques (autres)",
+          "Outillage pour le bâtiment",
+          "Outils de maçonnerie",
+          "Matériel de démolition pour le bâtiment",
+          "Matériel d'entretien des routes",
+          "Pompes pour les travaux publics et le bâtiment",
+          "Grues",
+          "Ascenseurs et monte-charges",
+          "Chariots élévateurs",
+          "Transpalettes",
+          "Travaux d'installation et de maintenance de gaz, eau, chauffage, ventilation et conditionnement d'air",
+          "Travaux de construction et de maintenance de piscines",
+          "Matériel de traitement de l'eau, des eaux usées domestiques et des effluents industriels",
+          "Installation et maintenance du matériel pour l'industrie de la collecte et du recyclage",
+          "Importateurs et exportateurs"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.sarlcocom.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    },
+    {
+      "company": {
+        "name": "Entreprise Nationale de Métallurgie & de Transformation des Métaux non Ferreux,Spa",
+        "description": null,
+        "url": "https://dz.kompass.com/c/entreprise-nationale-de-metallurgie-de-transformation-des-metaux/dz014932/",
+        "logo": "https://cdn3.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png",
+        "phone": "+213 43 21 32 51",
+        "email": "a_bou@wissal.dz",
+        "address": {
+          "streetAddress": "Boulevard 18 Février, Imama",
+          "addressLocality": "Tlemcen",
+          "postalCode": "13000",
+          "addressCountry": "DZ",
+          "@type": "PostalAddress",
+          "wilaya": "Tlemcen"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "34.8862800598145",
+          "longitude": "-1.31143999099731"
+        },
+        "activities": [
+          "Acides et anhydrides inorganiques",
+          "Profilés en acier et acier laminé",
+          "Métaux légers et leurs alliages",
+          "Semi-produits en aluminium et ses alliages",
+          "Semi-produits en métaux légers (autres)",
+          "Métaux purs et électrolytiques",
+          "Métaux non-ferreux et leurs alliages (autres)",
+          "Semi-produits en cuivre",
+          "Semi-produits en zinc",
+          "Grenaille de métal",
+          "Poudres de métal",
+          "Importateurs et exportateurs",
+          "Recherche en général"
+        ],
+        "social_media": [
+          {
+            "platform": "Site web",
+            "url": "http://www.metanof.com"
+          }
+        ],
+        "wilaya": "Tlemcen",
+        "keywords": []
+      },
+      "products": [],
+      "services": []
+    }
+  ]
+}
